@@ -1,5 +1,5 @@
-"""Render every beats JSON in a folder to MP4, loading the voice model once.
-Usage: python3 tools/batch.py <folder_with_json>"""
+"""Render every beats JSON in a folder to MP4 (run tools/cb_batch.py first for voice "cb").
+Usage: python3 tools/batch.py <folder>"""
 import sys, glob, os, time, traceback
 folder = sys.argv[1]
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))

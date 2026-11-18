@@ -11,10 +11,13 @@ bash /home/claude/gta6-clips/tools/setup.sh
 ```
 
 Para descargar la voz hacen falta `huggingface.co` y `*.hf.co` en los dominios permitidos.
+La voz B es Chatterbox multilingüe, de licencia MIT, y se instala en `/home/claude/cb`.
+Toma como referencia `tools/voz_b_ref.wav`, una voz sintética, no de una persona real.
 
 ## 2. Tendencias del día
 
-Busca en la web qué es tendencia hoy con GTA 6: noticias, trucos, descubrimientos, polémicas y guías.
+Busca en la web qué es tendencia hoy con GTA 6. El canal se centra en **datos curiosos y trucos**: easter eggs, secretos, formas de ganar dinero, consejos y mecánicas poco conocidas.
+Los vídeos y fotos que se hacen virales sirven para saber qué temas interesan, pero nunca se copian: las imágenes de los Shorts son solo las capturas oficiales de `assets/caps`.
 Elige **10 temas distintos** y no repitas ninguno de `published.md`.
 
 Reglas de seguridad y veracidad:
@@ -35,7 +38,8 @@ Para cada tema:
 4. Guárdalo en `days/AAAA-MM-DD/NN_slug.json` con este formato:
 
 ```json
-{"slug":"01_tema","voice":"parler","hook_text":"TEXTO ARRIBA (máx. 30 caracteres)",
+{"slug":"01_tema","voice":"cb","hook_text":"",
+ "thumb":"LÍNEA 1|LÍNEA 2|LÍNEA 3 (portada, 2-4 palabras por línea)","image0":"Vice_City_16",
  "title":"Título de YouTube (máx. 90 caracteres, con #GTA6 #Shorts)",
  "description":"2-3 líneas + fuentes + 'Imágenes: Rockstar Games. Canal no oficial.'",
  "tags":["GTA 6","GTA VI","Vice City"],
@@ -48,11 +52,16 @@ Si una palabra en inglés suena mal, añádela a la lista `PRON` de `tools/rende
 
 ## 4. Render
 
+Primero genera la voz y luego monta los vídeos. Hazlo en este orden y nunca a la vez, porque juntos agotan la memoria.
+
 ```bash
-cd /home/claude/gta6-clips && python3 tools/batch.py days/AAAA-MM-DD
+cd /home/claude/gta6-clips
+/home/claude/cb/bin/python tools/cb_batch.py days/AAAA-MM-DD tools/voz_b_ref.wav   # ~4-5 min por vídeo
+python3 tools/qa.py days/AAAA-MM-DD      # regenera (borra el wav y relanza cb_batch) las frases marcadas REVISAR
+python3 tools/batch.py days/AAAA-MM-DD   # ~1 min por vídeo
 ```
 
-Tarda unos 6 minutos por vídeo, unos 60 minutos en total.
+Cada vídeo empieza con una portada llamativa creada con `thumb.py` a partir de `thumb` e `image0`. En Metricool, añade `"videoCoverMilliseconds": 500` para usarla como miniatura.
 Cuando acabe, comprueba que hay 10 MP4 y mira un fotograma de cada uno.
 
 ## 5. Subir y programar
@@ -66,6 +75,8 @@ Cuando acabe, comprueba que hay 10 MP4 y mira un fotograma de cada uno.
    - `text` = descripción
    - `media` = [URL]
    - `autoPublish`: true
+   - `providers`: `[{"network":"youtube"},{"network":"tiktok"}]`, con `tiktokData` `{"privacyOption":"PUBLIC_TO_EVERYONE","title":...,"isAigc":true}`
+   - `videoCoverMilliseconds`: 500
 4. Horas por defecto: 08:30, 10:00, 11:30, 12:45, 13:45, 14:45, 15:45, 16:30, 17:30 y 19:00.
    Ajústalas con `getBestTimeToPostByNetwork` si hay datos.
 

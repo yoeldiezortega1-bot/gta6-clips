@@ -23,7 +23,10 @@ PRON = [
  (r"\bstreamers?\b", "estrímers"), (r"\bUltimate\b", "últimeit"), (r"\bDJ Khaled\b", "di yei jáled"),
  (r"\bReddit\b", "réddit"), (r"\bGrassrivers\b", "grasríbers"), (r"\bLeonida Keys\b", "leónida kis"), (r"\bRideout Customs\b", "ráidaut cástoms"),
  (r"\bHawk\b", "jok"), (r"\bLittle Morgan\b", "lítel mórgan"), (r"\bGrotti Cheetah\b", "grotti chíta"), (r"\bVapid Stanier\b", "vápid stánier"),
- (r"\bVapid\b", "vápid"), (r"\bDigital Foundry\b", "díyital fáundri"), (r"\bVintage\b", "víntach"), (r"\bPro\b", "pro"), (r"\bShorts\b", "chorts"), (r"\bDLC\b", "de ele ce"), (r"\bfps\b", "efe pe ese"),
+ (r"\bVapid\b", "vápid"), (r"\bMoses\b", "móuses"), (r"\bslim jim\b", "slim yim"), (r"\bKey Lento\b", "ki lento"),
+ (r"\bOcean Beach\b", "óushen bich"), (r"\bRydeMe\b", "ráid mi"), (r"\bEaster eggs?\b", "íster eg"), (r"\bBigfoot\b", "bigfut"),
+ (r"\bWashington Island\b", "guáshinton áiland"), (r"\bLiberty City\b", "líberti síti"), (r"\bThat's Where The Money Is\b", "dats güer de mani is"),
+ (r"\bPowerPyx\b", "páuer pix"), (r"\bTalkEsport\b", "tok isport"), (r"\bKenton\b", "kénton"), (r"\bDexter\b", "déxter"), (r"\bDigital Foundry\b", "díyital fáundri"), (r"\bVintage\b", "víntach"), (r"\bPro\b", "pro"), (r"\bShorts\b", "chorts"), (r"\bDLC\b", "de ele ce"), (r"\bfps\b", "efe pe ese"),
 ]
 def pron(t):
     for a, b in PRON: t = re.sub(a, b, t)
@@ -52,10 +55,20 @@ def parler(text, raw, seed=5):
                        prompt_attention_mask=p.attention_mask, do_sample=True, temperature=1.0)
     sf.write(raw, a.cpu().numpy().squeeze(), m.config.sampling_rate)
 
+CB_AUDIO = {}
+def text_key(t):
+    import hashlib
+    return hashlib.md5(pron(t).encode()).hexdigest()
+
 def tts(text, out, voice):
     text = pron(text)
     raw = out + ".raw.wav"
-    if voice == "parler":
+    if voice == "cb":
+        import shutil
+        shutil.copy(CB_AUDIO[text_key(text)], raw)
+        af = ("aresample=44100,highpass=f=60,afade=t=in:d=0.02,"
+              "silenceremove=stop_periods=-1:stop_duration=0.45:stop_threshold=-50dB,acompressor=threshold=-20dB:ratio=2")
+    elif voice == "parler":
         parler(text, raw)
         af = ("silenceremove=start_periods=1:start_threshold=-40dB,areverse,silenceremove=start_periods=1:start_threshold=-40dB,areverse,"
               "aresample=44100,highpass=f=60,acompressor=threshold=-20dB:ratio=2")
@@ -74,11 +87,13 @@ def tts(text, out, voice):
                         "--sentence_silence", "0.15"], input=text.encode(), check=True,
                        stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         af = "aresample=44100,highpass=f=70,equalizer=f=150:t=q:w=1:g=2,equalizer=f=3500:t=q:w=1:g=2,acompressor=threshold=-18dB:ratio=2.5"
-    sh(["ffmpeg", "-y", "-i", raw, "-af", af + ",apad=pad_dur=0.3", "-ar", "44100", "-ac", "1", "-c:a", "pcm_s16le", out])
+    sh(["ffmpeg", "-y", "-i", raw, "-af", af + ",apad=pad_dur=0.18", "-ar", "44100", "-ac", "1", "-c:a", "pcm_s16le", out])
     with wave.open(out) as w:
         return w.getnframes() / w.getframerate()
 
 def find_image(key):
+    if os.path.isabs(key) and os.path.exists(key):
+        return key
     m = sorted(glob.glob(os.path.join(CAPS, key + "*.jpg"))) or sorted(glob.glob(os.path.join(CAPS, "*" + key + "*.jpg")))
     if not m:
         raise SystemExit(f"no image for {key}")
@@ -120,6 +135,14 @@ def main():
     spec = json.load(open(sys.argv[1])); out = sys.argv[2]
     voice = spec.get("voice", "parler")
     tmp = tempfile.mkdtemp(prefix="short_")
+    if voice == "cb":
+        adir = os.path.join(os.path.dirname(os.path.abspath(sys.argv[1])), "audio")
+        for f in glob.glob(os.path.join(adir, "*.wav")):
+            CB_AUDIO[os.path.basename(f)[:-4]] = f
+    if spec.get("thumb"):
+        tp = os.path.join(tmp, "thumb.png")
+        sh(["python3", os.path.join(os.path.dirname(os.path.abspath(__file__)), "thumb.py"), find_image(spec["image0"]), spec["thumb"], tp])
+        spec["beats"][0]["image"] = tp
     segs, durs = [], []
     for i, b in enumerate(spec["beats"]):
         a = os.path.join(tmp, f"a{i}.wav")
@@ -127,6 +150,8 @@ def main():
         img = find_image(b["image"])
         v = os.path.join(tmp, f"v{i}.mp4")
         direction = "(iw-1080)*t/%f" % d if i % 2 == 0 else "(iw-1080)*(1-t/%f)" % d
+        if img.endswith("thumb.png"):
+            direction = "(iw-1080)/2"
         vf = (f"scale=-2:{int(H*1.08)},crop={W}:{H}:x='{direction}':y='(ih-{H})/2',"
               f"eq=contrast=1.06:saturation=1.12,fps=30,format=yuv420p")
         sh(["ffmpeg", "-y", "-loop", "1", "-t", f"{d:.3f}", "-i", img, "-vf", vf, "-an",

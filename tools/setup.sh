@@ -1,9 +1,12 @@
 #!/usr/bin/env bash
-# Dependencias del pipeline (Python 3, ffmpeg ya instalado)
+# Dependencias: Python 3, ffmpeg. Voz B = Chatterbox multilingüe en un venv aparte.
 set -e
-pip install --break-system-packages -q torch
-pip install --break-system-packages -q git+https://github.com/huggingface/parler-tts.git
-pip install --break-system-packages -q -U protobuf sentencepiece soundfile
+pip install --break-system-packages -q soundfile pillow
+if [ ! -x /home/claude/cb/bin/python ]; then
+  python3 -m venv /home/claude/cb
+  /home/claude/cb/bin/pip install -q --upgrade pip
+  /home/claude/cb/bin/pip install -q chatterbox-tts "setuptools<81"
+fi
 T=/tmp/yt-script-tools
 if [ ! -f "$T/skills/yt-script/hookscore.py" ]; then
   rm -rf "$T" && git clone -q https://github.com/Jakeschincariol/youtube-agent-skill.git "$T" \
