@@ -1,0 +1,35 @@
+{
+ "hook_text": "¿60 FPS en GTA 6?",
+ "beats": [
+  {
+   "say": "Te compraste una PS5 Pro para jugar GTA 6 a sesenta efe pe ese, pero casi nadie te cuenta por qué quizá no llegue nunca.",
+   "image": "Jason_Duval_03"
+  },
+  {
+   "say": "Rockstar todavía no ha confirmado los modos gráficos de consola.",
+   "image": "Vice_City_05",
+   "screen": "Sin confirmar por Rockstar"
+  },
+  {
+   "say": "Pero los analistas de Digital Foundry creen que irá a treinta, incluso en PS5 Pro.",
+   "image": "Lucia_Caminos_03",
+   "screen": "Digital Foundry: 30 FPS"
+  },
+  {
+   "say": "El motivo no son los gráficos. Es el procesador. Y el de la Pro es solo un poco más rápido que el de la PS5 normal.",
+   "image": "Port_Gellhorn_03",
+   "screen": "El límite es la CPU"
+  },
+  {
+   "say": "Su apuesta intermedia es un modo a cuarenta en teles de ciento veinte hercios.",
+   "image": "Jason_and_Lucia_04",
+   "screen": "Posible modo 40 FPS"
+  },
+  {
+   "say": "Cuando lo pruebes, cuéntame en comentarios cómo te va. Y sígueme para más de GTA 6.",
+   "image": "Vice_City_06"
+  }
+ ],
+ "slug": "04_60fps",
+ "voice": "parler"
+}
