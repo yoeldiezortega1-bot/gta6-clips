@@ -1,0 +1,46 @@
+{
+ "slug": "05_truco_dinero",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "EL TRUCO|DE 250.000 $|TIENE TRAMPA",
+ "image0": "Jason_Duval_05",
+ "title": "El truco de 250.000 $ de GTA 6 tiene trampa #GTA6 #Shorts",
+ "description": "Los trucos de GTA 6 se desbloquean al acabar la historia. Uno añade 250.000 $ al banco, pero detiene el progreso de trofeos y logros en esa sesión.\nFuente: Insider Gaming.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "trucos",
+  "cheats",
+  "dinero"
+ ],
+ "time": "13:30",
+ "beats": [
+  {
+   "say": "Puedes perder tus trofeos en GTA 6 si usas el truco del dinero. Y casi nadie lee el aviso.",
+   "image": "Jason_Duval_05"
+  },
+  {
+   "say": "Los trucos solo se desbloquean cuando terminas la historia. Antes no funcionan.",
+   "image": "Jason_Duval_06",
+   "screen": "Tras acabar la historia"
+  },
+  {
+   "say": "Mira el móvil, mantén pulsado L uno y mete esta combinación. Erre uno, arriba, derecha, abajo, izquierda, arriba, izquierda, abajo, derecha.",
+   "image": "Jason_Duval_16",
+   "screen": "Mantén L1 + móvil"
+  },
+  {
+   "say": "Te ingresa doscientos cincuenta mil dólares en el banco al momento.",
+   "image": "Jason_Duval_17",
+   "screen": "+250.000 $"
+  },
+  {
+   "say": "Pero el progreso de trofeos y logros se detiene en esa sesión. Si vas a por el platino, piénsatelo.",
+   "image": "Jason_Duval_18",
+   "screen": "Adiós trofeos en esa sesión"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Jason_Duval_19"
+  }
+ ]
+}

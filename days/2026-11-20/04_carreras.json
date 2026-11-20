@@ -1,0 +1,46 @@
+{
+ "slug": "04_carreras",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "40 CARRERAS|ESCONDIDAS|EN EL MAPA",
+ "image0": "ULTIMATE_EDITION_ELECTRIC_FANG_01",
+ "title": "GTA 6 tiene 40 carreras escondidas que dan dinero #GTA6 #Shorts",
+ "description": "GTA 6 tiene 40 ubicaciones de carreras únicas. Pagas la inscripción y el alquiler del vehículo, y si ganas sacas beneficio.\nFuentes: Insider Gaming, PowerPyx, The Big Lead.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "carreras",
+  "dinero",
+  "trucos"
+ ],
+ "time": "12:30",
+ "beats": [
+  {
+   "say": "Puedes perder dinero en GTA 6 en cada carrera que corres. Y casi nadie sabe que hay cuarenta.",
+   "image": "ULTIMATE_EDITION_ELECTRIC_FANG_01"
+  },
+  {
+   "say": "El mapa tiene cuarenta carreras únicas. Muchas no las verás si vas solo a la historia.",
+   "image": "ULTIMATE_EDITION_ELECTRIC_FANG_02",
+   "screen": "40 carreras"
+  },
+  {
+   "say": "Pero cuidado. Para entrar pagas una inscripción y el alquiler del vehículo.",
+   "image": "ULTIMATE_EDITION_ELECTRIC_FANG_03",
+   "screen": "Inscripción + alquiler"
+  },
+  {
+   "say": "Si ganas, te llevas más de lo que has pagado. Si pierdes, has tirado el dinero.",
+   "image": "ULTIMATE_EDITION_ELECTRIC_FANG_04",
+   "screen": "Gana o pierdes dinero"
+  },
+  {
+   "say": "Un truco extra. En moto, el botón de ataque es una patada para tirar a tus rivales.",
+   "image": "ULTIMATE_EDITION_VAPID_BUGGY_01",
+   "screen": "En moto: patada"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "ULTIMATE_EDITION_VAPID_BUGGY_02"
+  }
+ ]
+}

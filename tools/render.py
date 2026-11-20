@@ -27,6 +27,7 @@ PRON = [
  (r"\bOcean Beach\b", "óushen bich"), (r"\bRydeMe\b", "ráid mi"), (r"\bEaster eggs?\b", "íster eg"), (r"\bBigfoot\b", "bigfut"),
  (r"\bWashington Island\b", "guáshinton áiland"), (r"\bLiberty City\b", "líberti síti"), (r"\bThat's Where The Money Is\b", "dats güer de mani is"),
  (r"\bPowerPyx\b", "páuer pix"), (r"\bTalkEsport\b", "tok isport"), (r"\bKenton\b", "kénton"), (r"\bDexter\b", "déxter"), (r"\bDigital Foundry\b", "díyital fáundri"), (r"\bVintage\b", "víntach"), (r"\bPro\b", "pro"), (r"\bShorts\b", "chorts"), (r"\bDLC\b", "de ele ce"), (r"\bfps\b", "efe pe ese"),
+ (r"Pay 'n' Spray", "péi en spréi"), (r"\bRandy\b", "rándi"), (r"\bsticks\b", "estiks"), (r"\bstick\b", "estik"),
 ]
 def pron(t):
     for a, b in PRON: t = re.sub(a, b, t)

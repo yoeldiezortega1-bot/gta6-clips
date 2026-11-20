@@ -1,0 +1,46 @@
+{
+ "slug": "06_empujar_coches",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "NO PAGUES|LA GRÚA|NUNCA MÁS",
+ "image0": "ULTIMATE_EDITION_VAPID_BUGGY_03",
+ "title": "No pagues la grúa en GTA 6: haz esto #GTA6 #Shorts",
+ "description": "En GTA 6 puedes empujar vehículos: camina contra uno hasta que aparezca el aviso y mantén cuadrado. Sirve para devolver un barco al agua o poner derecho un coche volcado.\nFuente: The Big Lead.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "trucos",
+  "coches",
+  "consejos"
+ ],
+ "time": "15:00",
+ "beats": [
+  {
+   "say": "Puedes perder dinero en GTA 6 pagando una grúa. Y casi nadie sabe que puede darle la vuelta al coche él solo.",
+   "image": "ULTIMATE_EDITION_VAPID_BUGGY_03"
+  },
+  {
+   "say": "Camina contra el coche y sigue empujando hasta que salga un aviso abajo a la derecha.",
+   "image": "ULTIMATE_EDITION_VAPID_BUGGY_04",
+   "screen": "Camina contra el coche"
+  },
+  {
+   "say": "Mantén pulsado cuadrado y tu personaje empuja el vehículo con todas sus fuerzas.",
+   "image": "ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_02",
+   "screen": "Mantén cuadrado"
+  },
+  {
+   "say": "Así pones derecho un coche volcado sin pagar a nadie.",
+   "image": "ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_03",
+   "screen": "Coche volcado: arreglado"
+  },
+  {
+   "say": "Y también funciona con barcos. Si encallas, lo empujas de vuelta al agua.",
+   "image": "Leonida_Keys_04",
+   "screen": "También con barcos"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Leonida_Keys_05"
+  }
+ ]
+}

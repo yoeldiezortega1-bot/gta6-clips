@@ -1,0 +1,46 @@
+{
+ "slug": "09_tienda_caja",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "LA CAJA|FUERTE|ESCONDIDA",
+ "image0": "Cal_Hampton_03",
+ "title": "La caja fuerte escondida en las tiendas de GTA 6 #GTA6 #Shorts",
+ "description": "Al atracar una tienda en GTA 6, algunas tienen una caja fuerte en la trastienda. Puedes abrirla a patadas, obligar al empleado o encontrar el código en un pósit cercano.\nFuente: VGC.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "atracos",
+  "dinero",
+  "trucos"
+ ],
+ "time": "18:00",
+ "beats": [
+  {
+   "say": "Puedes perder dinero en GTA 6 atracando tiendas. Y casi nadie sabe que puede haber una caja fuerte en la trastienda.",
+   "image": "Cal_Hampton_03"
+  },
+  {
+   "say": "Apunta al cajero y amenázalo para que abra la caja registradora. La policía apenas reacciona.",
+   "image": "Cal_Hampton_04",
+   "screen": "Amenaza al cajero"
+  },
+  {
+   "say": "Pero no te vayas todavía. Algunas tiendas tienen una caja fuerte en la trastienda.",
+   "image": "DreQuan_Priest_02",
+   "screen": "Mira en la trastienda"
+  },
+  {
+   "say": "Puedes abrirla a patadas o obligar al empleado a que la abra él.",
+   "image": "DreQuan_Priest_03",
+   "screen": "A patadas o con el empleado"
+  },
+  {
+   "say": "O busca un pósit cerca con el código apuntado. A veces está ahí mismo.",
+   "image": "DreQuan_Priest_04",
+   "screen": "Busca el pósit"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Raul_Bautista_02"
+  }
+ ]
+}
