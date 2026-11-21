@@ -1,0 +1,47 @@
+{
+ "slug": "05_perfil_criminal",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "ESTE NIVEL|ES PARA|SIEMPRE",
+ "image0": "Lucia_Caminos_05",
+ "title": "Cuidado con este nivel de GTA 6: es permanente #GTA6 #Shorts",
+ "description": "El perfil criminal de GTA 6 tiene cinco niveles (Profesional, Curtido, Violento, Psicópata e Irredimible) según cómo cometes los delitos. Irredimible es permanente.\nFuente: GamingBolt.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "perfil criminal",
+  "secretos",
+  "Jason",
+  "Lucía"
+ ],
+ "time": "13:30",
+ "beats": [
+  {
+   "say": "Puedes cambiar para siempre a Jason y Lucía en GTA 6 por cómo juegas. Y casi nadie mira su perfil criminal.",
+   "image": "Lucia_Caminos_05"
+  },
+  {
+   "say": "GTA 6 tiene un perfil criminal, parecido al sistema de honor de Red Dead Redemption dos.",
+   "image": "Lucia_Caminos_06",
+   "screen": "Perfil criminal"
+  },
+  {
+   "say": "Hay cinco niveles: profesional, curtido, violento, psicópata e irredimible.",
+   "image": "Jason_Duval_01",
+   "screen": "5 niveles"
+  },
+  {
+   "say": "No cuenta cuántos delitos cometes, sino cómo los cometes. Si robas sin violencia, eres profesional.",
+   "image": "Jason_Duval_02"
+  },
+  {
+   "say": "Cuidado con el último. Irredimible es permanente, y puede afectar a los protagonistas para siempre.",
+   "image": "Jason_Duval_03",
+   "screen": "Irredimible = permanente"
+  },
+  {
+   "say": "¿Cuál es tu nivel? Te leo en comentarios, y sígueme para más.",
+   "image": "Jason_Duval_04"
+  }
+ ]
+}

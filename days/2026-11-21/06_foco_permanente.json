@@ -1,0 +1,46 @@
+{
+ "slug": "06_foco_permanente",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "SUBE|EL FOCO|PARA SIEMPRE",
+ "image0": "Mount_Kalaga_National_Park_03",
+ "title": "Así subes el foco para siempre en GTA 6 #GTA6 #Shorts",
+ "description": "El foco se sube de forma permanente con actividades no violentas: pescar, billar, golf o el campo de tiro. Lo ves en la app de salud junto a fuerza y cardio.\nFuente: GamingBolt.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "foco",
+  "pesca"
+ ],
+ "time": "15:00",
+ "beats": [
+  {
+   "say": "Puedes perder todos los tiroteos en GTA 6 si tienes poco foco. Y casi nadie sabe cómo subirlo para siempre.",
+   "image": "Mount_Kalaga_National_Park_03"
+  },
+  {
+   "say": "El foco es una de tus estadísticas, junto a la fuerza y el cardio. Lo ves en la app de salud del móvil.",
+   "image": "Mount_Kalaga_National_Park_05",
+   "screen": "Fuerza · Cardio · Foco"
+  },
+  {
+   "say": "Para subirlo de forma permanente, no hace falta pegar tiros. Al revés: haz actividades tranquilas.",
+   "image": "Mount_Kalaga_National_Park_06",
+   "screen": "Sin violencia"
+  },
+  {
+   "say": "Ve a pescar, juega al billar o al golf, o practica en el campo de tiro.",
+   "image": "Port_Gellhorn_05",
+   "screen": "Pesca · Billar · Golf · Tiro"
+  },
+  {
+   "say": "Y el campo de tiro tiene premio extra: mejoras tu puntería y aprovechas para ajustar los controles.",
+   "image": "Port_Gellhorn_06"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Leonida_Keys_02"
+  }
+ ]
+}

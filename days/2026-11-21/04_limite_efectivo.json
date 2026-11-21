@@ -1,0 +1,46 @@
+{
+ "slug": "04_limite_efectivo",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "LÍMITE|20.000 $|EN EFECTIVO",
+ "image0": "ULTIMATE_EDITION_SARAS_SALON_01",
+ "title": "GTA 6 no te deja llevar más de 20.000 $ encima #GTA6 #Shorts",
+ "description": "Tu dinero se divide entre efectivo y la cuenta Buck Me. En efectivo puedes llevar como máximo 20.000 $; por encima no recoges más. Deposita en un cajero.\nFuentes: Inven Global, VGC.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "dinero",
+  "trucos",
+  "Buck Me"
+ ],
+ "time": "12:30",
+ "beats": [
+  {
+   "say": "Puedes perder dinero en GTA 6 por llevar los bolsillos llenos. Y casi nadie conoce el límite de veinte mil dólares.",
+   "image": "ULTIMATE_EDITION_SARAS_SALON_01"
+  },
+  {
+   "say": "En GTA 6, tu dinero se divide en dos: el efectivo que llevas encima y la cuenta de Buck Me.",
+   "image": "ULTIMATE_EDITION_SARAS_SALON_02",
+   "screen": "Efectivo + Buck Me"
+  },
+  {
+   "say": "En efectivo puedes llevar, como máximo, veinte mil dólares.",
+   "image": "ULTIMATE_EDITION_SARAS_SALON_03",
+   "screen": "Máximo: 20.000 $"
+  },
+  {
+   "say": "Si ya tienes esa cantidad, no puedes recoger más dinero.",
+   "image": "ULTIMATE_EDITION_VICE_CITY_STYLE_02"
+  },
+  {
+   "say": "Así que, cuando te acerques al límite, ve a un cajero y deposita. Y si mueres con mucho encima, puedes perderlo.",
+   "image": "ULTIMATE_EDITION_VICE_CITY_STYLE_03",
+   "screen": "Deposita en un cajero"
+  },
+  {
+   "say": "Guárdalo para no olvidarlo, y sígueme para más.",
+   "image": "ULTIMATE_EDITION_VICE_CITY_STYLE_04"
+  }
+ ]
+}

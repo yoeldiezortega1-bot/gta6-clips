@@ -1,0 +1,46 @@
+{
+ "slug": "01_propina_taxi",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "PROPINA|DE 5 $|= MÁS RÁPIDO",
+ "image0": "Vice_City_15",
+ "title": "El truco de la propina en GTA 6 que casi nadie usa #GTA6 #Shorts",
+ "description": "GTA 6 no tiene botón de viaje rápido: pides coche con la app del móvil. Una propina de 5 $ (hasta dos veces) hace que el conductor vaya más rápido, y por 100 $ llegas al instante.\nFuente: Inven Global.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "viaje rápido",
+  "Vice City"
+ ],
+ "time": "09:00",
+ "beats": [
+  {
+   "say": "Puedes perder tiempo y dinero en GTA 6 cada vez que pides un taxi. Y casi nadie conoce este truco de la propina.",
+   "image": "Vice_City_15"
+  },
+  {
+   "say": "En GTA 6 no hay un botón de viaje rápido. Para moverte, abres la app de viajes del móvil y pides un coche.",
+   "image": "Vice_City_01",
+   "screen": "Pide coche desde el móvil"
+  },
+  {
+   "say": "El truco: dale al conductor una propina de cinco dólares. Puedes hacerlo hasta dos veces.",
+   "image": "Vice_City_02",
+   "screen": "Propina: 5 $ (hasta x2)"
+  },
+  {
+   "say": "Con la propina, el conductor se anima y te lleva más rápido a tu destino.",
+   "image": "Vice_City_03"
+  },
+  {
+   "say": "Y si tienes mucha prisa, pagas cien dólares y llegas al instante.",
+   "image": "Vice_City_04",
+   "screen": "100 $ = viaje instantáneo"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Vice_City_05"
+  }
+ ]
+}

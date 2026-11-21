@@ -1,0 +1,45 @@
+{
+ "slug": "07_botin_perdido",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "RECUPERA|TU BOTÍN|PERDIDO",
+ "image0": "ULTIMATE_EDITION_ONE_EYED_WILLIE_01",
+ "title": "Si pierdes el botín en GTA 6, haz esto #GTA6 #Shorts",
+ "description": "Si te detienen o te matan con una bolsa de botín, vuelve al mismo sitio y busca el icono verde de la bolsa. A veces la tiene la policía.\nFuente: GamingBolt.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "botín",
+  "robos"
+ ],
+ "time": "16:00",
+ "beats": [
+  {
+   "say": "Puedes perder todo el botín de un golpe en GTA 6 si te pillan. Y casi nadie sabe que se puede recuperar.",
+   "image": "ULTIMATE_EDITION_ONE_EYED_WILLIE_01"
+  },
+  {
+   "say": "Si te detienen o te matan con una bolsa de botín, no está perdida del todo.",
+   "image": "ULTIMATE_EDITION_ONE_EYED_WILLIE_02"
+  },
+  {
+   "say": "Vuelve al mismo sitio donde caíste y busca un icono verde con forma de bolsa.",
+   "image": "ULTIMATE_EDITION_ONE_EYED_WILLIE_03",
+   "screen": "Icono verde de bolsa"
+  },
+  {
+   "say": "Ahí suele estar tu botín, esperando a que lo recojas otra vez.",
+   "image": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01"
+  },
+  {
+   "say": "Pero ojo: a veces la bolsa la tiene la policía, y entonces no será tan fácil.",
+   "image": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_02",
+   "screen": "A veces la tiene la policía"
+  },
+  {
+   "say": "Guarda este truco, y sígueme para más.",
+   "image": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_03"
+  }
+ ]
+}

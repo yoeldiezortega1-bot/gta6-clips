@@ -1,0 +1,47 @@
+{
+ "slug": "03_ordenes_pareja",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "TU PAREJA|HACE ESTO|POR TI",
+ "image0": "Jason_and_Lucia_01",
+ "title": "El botón de la pareja en GTA 6 que casi nadie usa #GTA6 #Shorts",
+ "description": "Con Jason y Lucía juntos, mantén derecha en la cruceta para dar órdenes: crear una distracción, conducir o vender lo robado (paga algo menos que venderlo tú).\nFuente: Inven Global.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "Jason",
+  "Lucía"
+ ],
+ "time": "11:30",
+ "beats": [
+  {
+   "say": "Puedes perder dinero en GTA 6 por no darle órdenes a tu pareja. Y casi nadie mantiene pulsado este botón.",
+   "image": "Jason_and_Lucia_01"
+  },
+  {
+   "say": "Cuando Jason y Lucía van juntos, mantén pulsado derecha en la cruceta.",
+   "image": "Jason_and_Lucia_06",
+   "screen": "Mantén → en la cruceta"
+  },
+  {
+   "say": "Te salen órdenes según la situación. Por ejemplo, que tu pareja cree una distracción si te persiguen.",
+   "image": "Jason_and_Lucia_07",
+   "screen": "Crea una distracción"
+  },
+  {
+   "say": "También puedes pasarle el volante, o pedirle que venda por ti lo que has robado.",
+   "image": "Jason_and_Lucia_08",
+   "screen": "Vende el botín por ti"
+  },
+  {
+   "say": "Eso sí: si vende tu pareja, te pagan un poco menos que si lo vendes tú en persona.",
+   "image": "Jason_and_Lucia_18",
+   "screen": "Paga un poco menos"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Jason_and_Lucia_19"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "08_armas_perdidas",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "ESTAS ARMAS|NO VUELVEN|NUNCA",
+ "image0": "Ambrosia_01",
+ "title": "Estas armas de GTA 6 se pierden para siempre #GTA6 #Shorts",
+ "description": "Las armas compradas se recuperan del almacén o del maletero. Las únicas no se modifican pero las usan los dos. Las que sueltan los enemigos, si las pierdes, no vuelven.\nFuentes: GamingBolt, Inven Global.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "armas",
+  "trucos",
+  "secretos"
+ ],
+ "time": "17:00",
+ "beats": [
+  {
+   "say": "Puedes perder tus mejores armas en GTA 6 para siempre. Y casi nadie sabe cuáles se recuperan.",
+   "image": "Ambrosia_01"
+  },
+  {
+   "say": "Las armas que compras están ligadas a Jason y Lucía. Si las pierdes, las recuperas del almacén o del maletero.",
+   "image": "Boobie_Ike_04",
+   "screen": "Compradas: se recuperan"
+  },
+  {
+   "say": "Las armas únicas, las variantes que encuentras explorando, no se pueden modificar, pero las usan los dos.",
+   "image": "VINTAGE_VICE_CITY_WEAPON_PATTERN_01",
+   "screen": "Únicas: para los dos"
+  },
+  {
+   "say": "El problema son las armas que sueltan los enemigos. Puedes guardar unas pocas en el maletero.",
+   "image": "Ambrosia_02"
+  },
+  {
+   "say": "Pero si las pierdes, no hay forma de recuperarlas. Desaparecen para siempre.",
+   "image": "Ambrosia_03",
+   "screen": "Se pierden para siempre"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Ambrosia_04"
+  }
+ ]
+}

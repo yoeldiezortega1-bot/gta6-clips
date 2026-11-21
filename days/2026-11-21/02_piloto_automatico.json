@@ -1,0 +1,46 @@
+{
+ "slug": "02_piloto_automatico",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "GTA 6|CONDUCE|SOLO",
+ "image0": "ULTIMATE_EDITION_STOCK_305_02",
+ "title": "GTA 6 tiene piloto automático: así se activa #GTA6 #Shorts",
+ "description": "Mantén abajo en la cruceta para entrar en la cámara cinemática y activar el piloto automático. Respeta las normas de tráfico, así que en atascos se para.\nFuente: Inven Global.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "piloto automático",
+  "conducir"
+ ],
+ "time": "10:00",
+ "beats": [
+  {
+   "say": "Puedes perder horas conduciendo en GTA 6 sin necesidad. Y casi nadie sabe que tiene piloto automático.",
+   "image": "ULTIMATE_EDITION_STOCK_305_02"
+  },
+  {
+   "say": "Mantén pulsado abajo en la cruceta y entras en la cámara cinemática.",
+   "image": "ULTIMATE_EDITION_STOCK_305_03",
+   "screen": "Mantén ↓ en la cruceta"
+  },
+  {
+   "say": "En ese modo se activa el piloto automático, y el coche conduce solo por ti.",
+   "image": "ULTIMATE_EDITION_STOCK_305_04",
+   "screen": "Piloto automático"
+  },
+  {
+   "say": "Si vas con Lucía o con Jason, también puedes pedirle a tu pareja que conduzca.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_04"
+  },
+  {
+   "say": "Eso sí: el piloto automático respeta las normas de tráfico, así que en un atasco se queda parado.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_05",
+   "screen": "Respeta el tráfico"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_06"
+  }
+ ]
+}

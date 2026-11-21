@@ -1,0 +1,46 @@
+{
+ "slug": "09_app_grua",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "¿TE QUEDAS|TIRADO?|USA ESTO",
+ "image0": "ULTIMATE_EDITION_SQUALO_03",
+ "title": "La app de GTA 6 que te salva si te quedas tirado #GTA6 #Shorts",
+ "description": "Los coches tienen gasolina y estado del motor. Con la app Scooter Bros te traen el coche reparado por una tarifa; la suscripción prémium da tres entregas gratis al día.\nFuente: Inven Global.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "coches",
+  "trucos",
+  "apps"
+ ],
+ "time": "18:00",
+ "beats": [
+  {
+   "say": "Puedes quedarte sin coche en GTA 6 en mitad de la nada. Y casi nadie usa esta app con tres entregas gratis al día.",
+   "image": "ULTIMATE_EDITION_SQUALO_03"
+  },
+  {
+   "say": "En GTA 6, los coches tienen gasolina y un medidor del estado del motor.",
+   "image": "ULTIMATE_EDITION_SQUALO_04",
+   "screen": "Gasolina + motor"
+  },
+  {
+   "say": "En las gasolineras haces un mantenimiento ligero. Pero si el coche está muy dañado, toca ir al taller.",
+   "image": "ULTIMATE_EDITION_RIDEOUT_CUSTOMS_01"
+  },
+  {
+   "say": "Si te quedas tirado, abre la app Scooter Bros del móvil. Te traen tu coche reparado, a cambio de una tarifa.",
+   "image": "ULTIMATE_EDITION_RIDEOUT_CUSTOMS_02",
+   "screen": "App Scooter Bros"
+  },
+  {
+   "say": "Y con la suscripción prémium tienes tres entregas gratis al día.",
+   "image": "ULTIMATE_EDITION_RIDEOUT_CUSTOMS_03",
+   "screen": "3 entregas gratis al día"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_01"
+  }
+ ]
+}
