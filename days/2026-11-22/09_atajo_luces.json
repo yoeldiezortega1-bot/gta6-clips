@@ -1,0 +1,47 @@
+{
+ "slug": "09_atajo_luces",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "LUCES|CON UN|DOBLE TOQUE",
+ "image0": "Jason_and_Lucia_05",
+ "title": "El atajo de las luces del coche en GTA 6 #GTA6 #Shorts",
+ "description": "Pulsa dos veces círculo (B en Xbox) dentro del coche para cambiar entre luces apagadas, largas y cortas, sin abrir el submenú del vehículo.\nFuente: Kotaku.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "controles",
+  "coches"
+ ],
+ "time": "18:00",
+ "hook_score": 63,
+ "beats": [
+  {
+   "say": "Puedes perder tiempo de noche en GTA 6 con las luces equivocadas. Y casi nadie conoce este atajo secreto de los faros.",
+   "image": "Jason_and_Lucia_05"
+  },
+  {
+   "say": "Lo normal es mantener la cruceta a la izquierda y abrir el submenú del coche, pero es lento.",
+   "image": "Jason_and_Lucia_06",
+   "screen": "Lo normal: el submenú"
+  },
+  {
+   "say": "Pero hay una forma mucho más rápida que el juego no te explica.",
+   "image": "Jason_and_Lucia_07"
+  },
+  {
+   "say": "Dentro del coche, pulsa dos veces círculo en PlayStation, o B en Xbox.",
+   "image": "Jason_and_Lucia_08",
+   "screen": "Doble toque: círculo / B"
+  },
+  {
+   "say": "Así cambias entre luces apagadas, largas y cortas sin soltar el volante y sin abrir ningún menú.",
+   "image": "Jason_and_Lucia_09",
+   "screen": "Apagadas · largas · cortas"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Jason_and_Lucia_10"
+  }
+ ]
+}

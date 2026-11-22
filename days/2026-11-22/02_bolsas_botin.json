@@ -1,0 +1,48 @@
+{
+ "slug": "02_bolsas_botin",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "¡NO ROBES|EN MOTO!|BOLSAS",
+ "image0": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04",
+ "title": "Por qué no debes robar en moto en GTA 6 #GTA6 #Shorts",
+ "description": "Cada personaje lleva dos bolsas de botín. En el maletero caben varias, una furgoneta o camión carga hasta ocho y una moto, ninguna.\nFuente: Red Bull Gaming (guía para principiantes de GTA 6).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "atracos",
+  "botín"
+ ],
+ "time": "10:00",
+ "hook_score": 73,
+ "beats": [
+  {
+   "say": "Puedes perder la mitad del botín en GTA 6 si atracas en moto. Y casi nadie sabe cuántas bolsas caben.",
+   "image": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04"
+  },
+  {
+   "say": "Cada personaje solo puede llevar encima dos bolsas de botín.",
+   "image": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_05",
+   "screen": "Encima: 2 bolsas"
+  },
+  {
+   "say": "En el maletero de un coche normal caben varias bolsas más, así que no vayas a pie.",
+   "image": "Ambrosia_01",
+   "screen": "Maletero: varias"
+  },
+  {
+   "say": "Pero una furgoneta o un camión carga hasta ocho bolsas en la parte de atrás. Es la mejor opción.",
+   "image": "Ambrosia_05",
+   "screen": "Furgoneta o camión: hasta 8"
+  },
+  {
+   "say": "¿Y la moto? Cero. En una moto no cabe ninguna bolsa, así que el resto se queda en el sitio.",
+   "image": "Ambrosia_06",
+   "screen": "Moto: 0 bolsas"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Boobie_Ike_01"
+  }
+ ]
+}

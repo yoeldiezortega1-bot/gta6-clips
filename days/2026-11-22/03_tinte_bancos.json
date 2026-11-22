@@ -1,0 +1,48 @@
+{
+ "slug": "03_tinte_bancos",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "EL DINERO|QUE|EXPLOTA",
+ "image0": "Boobie_Ike_02",
+ "title": "Por qué el dinero de los bancos EXPLOTA en GTA 6 #GTA6 #Shorts",
+ "description": "El efectivo de bancos y tiendas de préstamos suele llevar paquetes de tinta que estallan si te alejas del edificio. Necesitas un inhibidor, que llega en el capítulo tres.\nFuente: Red Bull Gaming (guía para principiantes de GTA 6).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "atracos",
+  "bancos"
+ ],
+ "time": "11:30",
+ "hook_score": 71,
+ "beats": [
+  {
+   "say": "Puedes perder un atraco entero a un banco en GTA 6 cuando el dinero explota. Y casi nadie sabe por qué.",
+   "image": "Boobie_Ike_02"
+  },
+  {
+   "say": "El efectivo de los bancos y de las tiendas de préstamos suele llevar paquetes de tinta escondidos.",
+   "image": "Boobie_Ike_03",
+   "screen": "Bancos y préstamos"
+  },
+  {
+   "say": "Si te alejas demasiado del edificio, esos paquetes explotan y estropean el botín.",
+   "image": "Boobie_Ike_04",
+   "screen": "Te alejas = ¡explota!"
+  },
+  {
+   "say": "Para evitarlo necesitas un inhibidor de paquetes de tinta.",
+   "image": "Brian_Heder_01",
+   "screen": "Necesitas un inhibidor"
+  },
+  {
+   "say": "Y no lo consigues hasta el capítulo tres, así que antes de eso es mejor dejar los bancos en paz.",
+   "image": "Brian_Heder_02",
+   "screen": "Llega en el capítulo 3"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Brian_Heder_03"
+  }
+ ]
+}

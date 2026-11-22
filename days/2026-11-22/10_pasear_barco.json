@@ -1,0 +1,47 @@
+{
+ "slug": "10_pasear_barco",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "CAMINA|POR TU|BARCO",
+ "image0": "Jason_and_Lucia_11",
+ "title": "Puedes pasear por el barco mientras navega en GTA 6 #GTA6 #Shorts",
+ "description": "Pulsa dos veces triángulo (Y en Xbox) mientras conduces un barco para levantarte y pasear por la cubierta mientras sigue navegando. En coche, el mismo gesto te baja sin apagar motor ni radio.\nFuente: Kotaku.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "barcos",
+  "controles"
+ ],
+ "time": "19:30",
+ "hook_score": 64,
+ "beats": [
+  {
+   "say": "Puedes perderte el mejor paseo en barco de GTA 6 si no sueltas el timón. Y casi nadie sabe que puedes caminar por la cubierta mientras navega.",
+   "image": "Jason_and_Lucia_11"
+  },
+  {
+   "say": "Cuando llevas un barco, parece que lo único que puedes hacer es conducir.",
+   "image": "Jason_and_Lucia_12"
+  },
+  {
+   "say": "Pero pulsa dos veces triángulo en PlayStation, o Y en Xbox.",
+   "image": "Jason_and_Lucia_13",
+   "screen": "Doble toque: triángulo / Y"
+  },
+  {
+   "say": "Tu personaje se levanta y puedes pasear por la cubierta mientras el barco sigue avanzando.",
+   "image": "Jason_and_Lucia_14",
+   "screen": "El barco sigue navegando"
+  },
+  {
+   "say": "Y en el coche, el mismo doble toque te baja sin apagar el motor ni la radio.",
+   "image": "Jason_and_Lucia_15",
+   "screen": "En coche: bajas sin apagar el motor"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Jason_and_Lucia_16"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "06_marcador_disparo",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "ROJO O|AMARILLO|¡OJO!",
+ "image0": "Jason_Duval_06",
+ "title": "El color del disparo que cambia tu GTA 6 #GTA6 #Shorts",
+ "description": "Los disparos a la cabeza y al corazón matan; los de articulaciones y extremidades solo hieren. Marcador rojo: muerto. Amarillo: herido. Clave para no hundir tu perfil criminal.\nFuente: Red Bull Gaming (guía para principiantes de GTA 6).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "perfil criminal",
+  "sigilo"
+ ],
+ "time": "15:00",
+ "hook_score": 70,
+ "beats": [
+  {
+   "say": "Puedes perder tu perfil de profesional en GTA 6 por un solo disparo. Y casi nadie mira el color del marcador.",
+   "image": "Jason_Duval_06"
+  },
+  {
+   "say": "En GTA 6 tu perfil criminal depende sobre todo de cuánta gente matas.",
+   "image": "Jason_Duval_07",
+   "screen": "Perfil criminal"
+  },
+  {
+   "say": "Los disparos a la cabeza o al corazón matan.",
+   "image": "Jason_Duval_08",
+   "screen": "Cabeza o corazón = muerte"
+  },
+  {
+   "say": "Pero si apuntas a las piernas, los brazos o las articulaciones, solo hieres.",
+   "image": "Jason_Duval_09",
+   "screen": "Brazos y piernas = herido"
+  },
+  {
+   "say": "Y el juego te lo chiva: si el marcador sale rojo, has matado. Si sale amarillo, solo has herido.",
+   "image": "Jason_Duval_10",
+   "screen": "Rojo: muerto · Amarillo: herido"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Jason_Duval_11"
+  }
+ ]
+}

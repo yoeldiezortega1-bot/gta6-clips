@@ -1,0 +1,48 @@
+{
+ "slug": "07_gimnasio_juntos",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "ENTRENA|DOS POR|EL PRECIO DE 1",
+ "image0": "Jason_Duval_12",
+ "title": "El truco del gimnasio de GTA 6 que ahorra tiempo #GTA6 #Shorts",
+ "description": "Si Jason y Lucía van juntos al gimnasio, los dos entrenan, juegues con quien juegues. La salud y la resistencia bajan si dejas de entrenar.\nFuente: Red Bull Gaming (guía para principiantes de GTA 6).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "gimnasio",
+  "Jason y Lucía"
+ ],
+ "time": "16:00",
+ "hook_score": 67,
+ "beats": [
+  {
+   "say": "Puedes perder horas en el gimnasio de GTA 6 entrenando dos veces. Y casi nadie sabe que los dos personajes entrenan a la vez.",
+   "image": "Jason_Duval_12"
+  },
+  {
+   "say": "En GTA 6 la salud y la resistencia suben entrenando, pero bajan si lo dejas.",
+   "image": "Jason_Duval_13",
+   "screen": "Si dejas de entrenar, baja"
+  },
+  {
+   "say": "Y tienes que mantener en forma a los dos, a Jason y a Lucía, por separado.",
+   "image": "Jason_Duval_14",
+   "screen": "Jason + Lucía"
+  },
+  {
+   "say": "El truco: llévalos juntos al gimnasio.",
+   "image": "Jason_Duval_15",
+   "screen": "Id juntos al gimnasio"
+  },
+  {
+   "say": "Si van los dos, entrenan los dos a la vez, da igual con cuál de ellos estés jugando en ese momento.",
+   "image": "Jason_Duval_16",
+   "screen": "Entrenan los dos"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Jason_Duval_17"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "slug": "08_atajo_radio",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "LA RADIO|SIN|MENÚS",
+ "image0": "Jason_Duval_18",
+ "title": "El atajo secreto de la radio en GTA 6 #GTA6 #Shorts",
+ "description": "Pulsa dos veces a la izquierda en la cruceta para encender o apagar la radio del coche sin abrir el submenú. No aparece en el menú de ayuda.\nFuente: Kotaku.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "controles",
+  "radio"
+ ],
+ "time": "17:00",
+ "hook_score": 67,
+ "beats": [
+  {
+   "say": "Puedes perder segundos en cada persecución de GTA 6 buscando en los menús. Y casi nadie conoce este atajo de la radio.",
+   "image": "Jason_Duval_18"
+  },
+  {
+   "say": "Para tocar la radio, casi todo el mundo mantiene la cruceta y abre el submenú del coche.",
+   "image": "Jason_Duval_19"
+  },
+  {
+   "say": "Pero hay un atajo que el juego no te explica.",
+   "image": "Jason_and_Lucia_01",
+   "screen": "El juego no lo explica"
+  },
+  {
+   "say": "Pulsa dos veces a la izquierda en la cruceta.",
+   "image": "Jason_and_Lucia_02",
+   "screen": "Doble toque: izquierda en la cruceta"
+  },
+  {
+   "say": "Jason o Lucía encienden o apagan la radio al momento, y este atajo ni siquiera sale en el menú de ayuda del juego.",
+   "image": "Jason_and_Lucia_03",
+   "screen": "Radio on/off al instante"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Jason_and_Lucia_04"
+  }
+ ]
+}

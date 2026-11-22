@@ -1,0 +1,47 @@
+{
+ "slug": "05_helicoptero_policia",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "ASÍ SE VA|EL|HELICÓPTERO",
+ "image0": "DreQuan_Priest_02",
+ "title": "Así haces huir al helicóptero de la policía en GTA 6 #GTA6 #Shorts",
+ "description": "Si disparas suficientes tiros a un helicóptero de la policía, se retira, y el piloto lo anuncia por la radio policial. Disparar a una o dos ruedas hace trompear a los coches que te persiguen.\nFuente: Red Bull Gaming (guía para principiantes de GTA 6).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "policía",
+  "persecución"
+ ],
+ "time": "13:30",
+ "hook_score": 67,
+ "beats": [
+  {
+   "say": "Puedes quitarte de encima el helicóptero de la policía en GTA 6 sin derribarlo. Y casi nadie conoce este truco para que se retire.",
+   "image": "DreQuan_Priest_02"
+  },
+  {
+   "say": "En una persecución, el helicóptero es lo que más cuesta despistar.",
+   "image": "DreQuan_Priest_03"
+  },
+  {
+   "say": "Pero no hace falta derribarlo. Si le disparas suficientes tiros, se retira.",
+   "image": "DreQuan_Priest_04",
+   "screen": "Dispárale suficiente"
+  },
+  {
+   "say": "Lo sabrás porque el piloto lo anuncia por la radio de la policía.",
+   "image": "Grassrivers_07",
+   "screen": "El piloto avisa por radio"
+  },
+  {
+   "say": "Y con los coches que te persiguen, dispara a una o dos ruedas y verás cómo hacen un trompo.",
+   "image": "Grassrivers_08",
+   "screen": "Coches: dispara a las ruedas"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Jason_Duval_05"
+  }
+ ]
+}

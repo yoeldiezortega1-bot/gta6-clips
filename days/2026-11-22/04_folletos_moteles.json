@@ -1,0 +1,47 @@
+{
+ "slug": "04_folletos_moteles",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "LEE ESTO|EN CADA|MOTEL",
+ "image0": "Brian_Heder_04",
+ "title": "El folleto de los moteles de GTA 6 que nadie lee #GTA6 #Shorts",
+ "description": "En moteles y hoteles hay folletos y mapas del pueblo que, al cogerlos, añaden sitios de la zona a tu mapa.\nFuente: GamesRadar+.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "mapa",
+  "secretos"
+ ],
+ "time": "12:30",
+ "hook_score": 65,
+ "beats": [
+  {
+   "say": "Puedes perderte un montón de sitios secretos en GTA 6 si pasas de los moteles. Y casi nadie lee este folleto.",
+   "image": "Brian_Heder_04"
+  },
+  {
+   "say": "Hay sitios del mapa que no aparecen hasta que alguien te los enseña.",
+   "image": "Cal_Hampton_01"
+  },
+  {
+   "say": "El truco está en los moteles y hoteles de cada zona.",
+   "image": "Cal_Hampton_02",
+   "screen": "Moteles y hoteles"
+  },
+  {
+   "say": "Allí, normalmente cerca de la recepción, puedes encontrar folletos y mapas del pueblo.",
+   "image": "Cal_Hampton_03",
+   "screen": "Folletos y mapas"
+  },
+  {
+   "say": "Cuando los coges, los lugares de interés de esa zona aparecen en tu mapa, sin tener que explorarlo todo a pie.",
+   "image": "Cal_Hampton_04",
+   "screen": "Nuevos sitios en tu mapa"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "DreQuan_Priest_01"
+  }
+ ]
+}

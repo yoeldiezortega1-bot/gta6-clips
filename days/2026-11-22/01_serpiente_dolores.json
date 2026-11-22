@@ -1,0 +1,48 @@
+{
+ "slug": "01_serpiente_dolores",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "FOCO GRATIS|CON UNA|SERPIENTE",
+ "image0": "Jason_and_Lucia_20",
+ "title": "Dale de comer a Dolores en GTA 6: foco gratis #GTA6 #Shorts",
+ "description": "En casa de Jason vive Dolores, su serpiente. Darle de comer al principio de la partida te da un pequeño extra de foco temporal.\nFuente: Red Bull Gaming (guía para principiantes de GTA 6).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "Dolores",
+  "foco"
+ ],
+ "time": "09:00",
+ "hook_score": 70,
+ "beats": [
+  {
+   "say": "Puedes perder foco gratis en GTA 6 desde el primer día si ignoras a Dolores. Y casi nadie le da de comer a esta serpiente.",
+   "image": "Jason_and_Lucia_20"
+  },
+  {
+   "say": "Dolores es la serpiente que Jason tiene de mascota en su casa.",
+   "image": "ULTIMATE_EDITION_GOODTIME_GEAR_01",
+   "screen": "Dolores: la serpiente de Jason"
+  },
+  {
+   "say": "Si le das de comer al principio de la partida, consigues un pequeño extra de foco.",
+   "image": "ULTIMATE_EDITION_PTT_STORE_01",
+   "screen": "Dale de comer = + foco"
+  },
+  {
+   "say": "El foco es la barra que te deja ralentizar el tiempo al apuntar.",
+   "image": "ULTIMATE_EDITION_VICE_CITY_STYLE_05",
+   "screen": "Foco = cámara lenta al apuntar"
+  },
+  {
+   "say": "Ese extra es temporal, como cuando comes, duermes o te duchas, así que aprovéchalo antes de un tiroteo.",
+   "image": "VINTAGE_VICE_CITY_PACK_01",
+   "screen": "Extra temporal"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "VINTAGE_VICE_CITY_PACK_02"
+  }
+ ]
+}
