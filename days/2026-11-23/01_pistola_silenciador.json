@@ -1,0 +1,47 @@
+{
+ "slug": "01_pistola_silenciador",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "LA MEJOR|ARMA|ES BARATA",
+ "image0": "ULTIMATE_EDITION_HAWK_AND_LITTLE_MORGAN_REVOLVERS_01",
+ "title": "La mejor arma de GTA 6 cuesta casi nada #GTA6 #Shorts",
+ "description": "Según Forbes, tras más de cien horas de juego, la pistola con silenciador es la mejor arma: barata y letal con un tiro a la cabeza.\nFuente: Forbes (Paul Tassi).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "armas",
+  "silenciador"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder todos los atracos en GTA 6 por hacer demasiado ruido. Y casi nadie compra esta pistola.",
+   "image": "ULTIMATE_EDITION_HAWK_AND_LITTLE_MORGAN_REVOLVERS_01"
+  },
+  {
+   "say": "Según Forbes, que lo ha jugado más de cien horas, la mejor arma es la pistola con silenciador.",
+   "image": "ULTIMATE_EDITION_WEAPON_VARIANTS_01",
+   "screen": "Pistola con silenciador"
+  },
+  {
+   "say": "Cuesta más o menos entre mil y dos mil dólares, muy poco para lo que rinde.",
+   "image": "VINTAGE_VICE_CITY_WEAPON_PATTERN_01",
+   "screen": "Unos 1.000-2.000 $"
+  },
+  {
+   "say": "Un disparo a la cabeza tumba a cualquiera de un solo tiro.",
+   "image": "Raul_Bautista_01",
+   "screen": "Headshot = un tiro"
+  },
+  {
+   "say": "Úsala para quitarte de encima a los vigilantes antes de que salte la alarma en un atraco.",
+   "image": "Raul_Bautista_02",
+   "screen": "Sin ruido, sin alarma"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Real_Dimez_01"
+  }
+ ],
+ "hook_score": 67
+}

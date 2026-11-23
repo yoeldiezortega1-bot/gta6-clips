@@ -1,0 +1,47 @@
+{
+ "slug": "10_tiendas_ropa",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "DEJA DE|IR A TODAS|LAS TIENDAS",
+ "image0": "ULTIMATE_EDITION_SARAS_SALON_01",
+ "title": "El truco de las tiendas de ropa de GTA 6 #GTA6 #Shorts",
+ "description": "Las tiendas de ropa de la misma marca comparten catálogo: con visitar una por marca basta. La marca aparece al pasar el cursor por el icono del mapa.\nFuente: PowerPyx (consejos y trucos de GTA 6).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "ropa",
+  "tiendas"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder horas en GTA 6 recorriendo tiendas de ropa. Y casi nadie sabe que muchas venden lo mismo.",
+   "image": "ULTIMATE_EDITION_SARAS_SALON_01"
+  },
+  {
+   "say": "Las tiendas de ropa de la misma marca comparten todo el catálogo.",
+   "image": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01",
+   "screen": "Misma marca = mismo catálogo"
+  },
+  {
+   "say": "Así que te basta con visitar una sola tienda de cada marca.",
+   "image": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_02",
+   "screen": "Una tienda por marca"
+  },
+  {
+   "say": "Para saber la marca, pasa el cursor por encima del icono en el mapa.",
+   "image": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_03",
+   "screen": "Mira el icono del mapa"
+  },
+  {
+   "say": "Y si quieres pasar desapercibido, ponte pañuelo, gafas y gorra desde la rueda de objetos.",
+   "image": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04",
+   "screen": "Pañuelo + gafas + gorra"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "ULTIMATE_EDITION_SARAS_SALON_02"
+  }
+ ],
+ "hook_score": 67
+}

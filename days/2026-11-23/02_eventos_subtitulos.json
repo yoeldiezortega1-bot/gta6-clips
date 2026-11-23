@@ -1,0 +1,47 @@
+{
+ "slug": "02_eventos_subtitulos",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "20.000 $|ESCONDIDOS|EN UN GRITO",
+ "image0": "Vice_City_06",
+ "title": "Los gritos con subtítulos de GTA 6 esconden dinero #GTA6 #Shorts",
+ "description": "Las voces con subtítulos (gritos, megáfonos) marcan eventos del mundo que merecen la pena: en Forbes encontraron una caja fuerte con 20.000 $.\nFuente: Forbes (Paul Tassi).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "dinero",
+  "eventos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder veinte mil dólares en GTA 6 por ignorar unos subtítulos. Y casi nadie sigue estos gritos.",
+   "image": "Vice_City_06"
+  },
+  {
+   "say": "Cuando oyes a alguien gritar o un megáfono y aparece con subtítulos, hay un evento cerca.",
+   "image": "Vice_City_07",
+   "screen": "Subtítulos = evento cerca"
+  },
+  {
+   "say": "Activa la visión especial y verás círculos de sonido que te llevan justo al origen.",
+   "image": "Vice_City_08",
+   "screen": "Sigue los círculos de sonido"
+  },
+  {
+   "say": "Así, el autor de Forbes encontró la caja fuerte de un piso vigilado por los SWAT, con una bolsa de veinte mil dólares.",
+   "image": "Vice_City_09",
+   "screen": "Caja fuerte: 20.000 $"
+  },
+  {
+   "say": "Y siguiendo otro grito acabó asaltando un furgón blindado. Hay decenas de eventos así.",
+   "image": "Vice_City_10",
+   "screen": "Decenas de eventos"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Vice_City_11"
+  }
+ ],
+ "hook_score": 67
+}

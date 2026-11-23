@@ -1,0 +1,47 @@
+{
+ "slug": "03_perro_moto_agua",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "EL PERRO|QUE TE LLEVA|A SU ISLA",
+ "image0": "Leonida_Keys_03",
+ "title": "El perro de GTA 6 que te lleva a una isla secreta #GTA6 #Shorts",
+ "description": "Un encuentro aleatorio en la costa: un perro te guía hasta su isla en los Cayos de Leonida, llena de perros con chaleco y gafas de sol. No siempre aparece y solo ocurre una vez.\nFuente: ComicBook.com.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "secretos",
+  "Leonida Keys"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte el secreto más raro de GTA 6 si nunca vas a la playa. Y casi nadie se va con este perro.",
+   "image": "Leonida_Keys_03"
+  },
+  {
+   "say": "Mientras nadas, buceas o vas en moto de agua por la costa, se te puede acercar un perro.",
+   "image": "Leonida_Keys_04",
+   "screen": "Encuentro aleatorio"
+  },
+  {
+   "say": "Si te vas con él, te lleva a su propia isla frente a los Leonida Keys.",
+   "image": "Leonida_Keys_05",
+   "screen": "Su isla secreta"
+  },
+  {
+   "say": "Allí te esperan más perros con chalecos salvavidas y gafas de sol.",
+   "image": "Leonida_Keys_06",
+   "screen": "Perros con gafas de sol"
+  },
+  {
+   "say": "Ojo, no siempre aparece y solo pasa una vez por partida, así que no lo ignores.",
+   "image": "Leonida_Keys_07",
+   "screen": "Solo pasa una vez"
+  },
+  {
+   "say": "Sígueme para más secretos de GTA 6.",
+   "image": "Vice_City_12"
+  }
+ ],
+ "hook_score": 65
+}

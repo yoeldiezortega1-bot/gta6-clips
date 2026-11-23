@@ -1,0 +1,47 @@
+{
+ "slug": "09_zombix_adrenalina",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "TE ESTÁS|CURANDO|MAL",
+ "image0": "Lucia_Caminos_01",
+ "title": "Te estás curando MAL en GTA 6 #GTA6 #Shorts",
+ "description": "El Zombix (L1 + Cuadrado / LB + X) solo cura media vida; la adrenalina (L1 + Triángulo / LB + Y) cura bastante más.\nFuente: PowerPyx (consejos y trucos de GTA 6).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "salud",
+  "combate"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder un tiroteo en GTA 6 por curarte con lo equivocado. Y casi nadie usa la adrenalina.",
+   "image": "Lucia_Caminos_01"
+  },
+  {
+   "say": "El Zombix te cura con ele uno y cuadrado en PlayStation, o ele be y equis en Xbox.",
+   "image": "Lucia_Caminos_02",
+   "screen": "Zombix: L1 + □ / LB + X"
+  },
+  {
+   "say": "Pero solo te devuelve la mitad de la vida.",
+   "image": "Lucia_Caminos_03",
+   "screen": "Solo media vida"
+  },
+  {
+   "say": "La adrenalina cura mucho más y va con ele uno y triángulo, o ele be e i griega.",
+   "image": "Lucia_Caminos_04",
+   "screen": "Adrenalina: L1 + △ / LB + Y"
+  },
+  {
+   "say": "Guarda la adrenalina para los momentos de verdad y el Zombix para los rasguños.",
+   "image": "Lucia_Caminos_05",
+   "screen": "Adrenalina = emergencias"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Lucia_Caminos_06"
+  }
+ ],
+ "hook_score": 67
+}

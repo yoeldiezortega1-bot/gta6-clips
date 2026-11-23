@@ -29,6 +29,8 @@ PRON = [
  (r"\bPowerPyx\b", "páuer pix"), (r"\bTalkEsport\b", "tok isport"), (r"\bKenton\b", "kénton"), (r"\bDexter\b", "déxter"), (r"\bDigital Foundry\b", "díyital fáundri"), (r"\bVintage\b", "víntach"), (r"\bPro\b", "pro"), (r"\bShorts\b", "chorts"), (r"\bDLC\b", "de ele ce"), (r"\bfps\b", "efe pe ese"),
  (r"Pay 'n' Spray", "péi en spréi"), (r"\bRandy\b", "rándi"), (r"\bsticks\b", "estiks"), (r"\bstick\b", "estik"),
  (r"\bBuck Me\b", "bak mi"), (r"\bScooter Bros\b", "skúter bros"), (r"\bRed Dead Redemption\b", "red ded ridémpshon"),
+ (r"\bSkunk Ape\b", "eskank éip"), (r"\bPelican Valley\b", "pélican váli"), (r"\bZombix\b", "zómbix"), (r"\bSWAT\b", "suát"),
+ (r"\bForbes\b", "forbs"), (r"\bKirk\b", "kerk"), (r"\bLeonida Keys\b", "leónida kis"),
 ]
 def pron(t):
     for a, b in PRON: t = re.sub(a, b, t)

@@ -1,0 +1,47 @@
+{
+ "slug": "06_guardar_reparar",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "REPARA|TU COCHE|GRATIS",
+ "image0": "ULTIMATE_EDITION_GROTTI_CHEETAH_01",
+ "title": "Repara tu coche GRATIS en GTA 6 con este truco #GTA6 #Shorts",
+ "description": "Guardar la partida a mano y volver a cargarla repara tu vehículo sin pagar. En el capítulo 1 además te devuelve a casa.\nFuente: PowerPyx (consejos y trucos de GTA 6).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "coches",
+  "reparar"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder dinero en GTA 6 pagando reparaciones. Y casi nadie usa este truco gratis.",
+   "image": "ULTIMATE_EDITION_GROTTI_CHEETAH_01"
+  },
+  {
+   "say": "Si tu coche está destrozado, guarda la partida a mano y vuelve a cargarla.",
+   "image": "ULTIMATE_EDITION_GROTTI_CHEETAH_02",
+   "screen": "Guarda y carga"
+  },
+  {
+   "say": "El vehículo aparece reparado, sin pagar ni un solo dólar en el taller.",
+   "image": "ULTIMATE_EDITION_GROTTI_CHEETAH_03",
+   "screen": "Reparación: 0 $"
+  },
+  {
+   "say": "En el capítulo uno, además, te devuelve a casa, así que sirve como viaje rápido.",
+   "image": "ULTIMATE_EDITION_GROTTI_CHEETAH_04",
+   "screen": "Capítulo 1: vuelta a casa"
+  },
+  {
+   "say": "Más adelante, el juego te hace aparecer cerca de donde guardaste.",
+   "image": "ULTIMATE_EDITION_STOCK_305_01",
+   "screen": "Apareces cerca"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "ULTIMATE_EDITION_STOCK_305_02"
+  }
+ ],
+ "hook_score": 67
+}

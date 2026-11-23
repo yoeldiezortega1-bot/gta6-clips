@@ -1,0 +1,47 @@
+{
+ "slug": "04_skunk_ape",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "EL BIGFOOT|DE GTA 6|EXISTE",
+ "image0": "Mount_Kalaga_National_Park_01",
+ "title": "El Bigfoot de GTA 6 se esconde aquí #GTA6 #Shorts",
+ "description": "En Grassrivers hay altares de paja y cuerda: quédate cerca y puede aparecer el Skunk Ape. Jason tiene misiones con Kirk sobre esta criatura.\nFuente: ComicBook.com.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "Skunk Ape",
+  "Grassrivers"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte la ocasión de ver al Bigfoot de GTA 6 en Grassrivers. Y casi nadie espera junto a estos altares.",
+   "image": "Mount_Kalaga_National_Park_01"
+  },
+  {
+   "say": "En la zona de Grassrivers hay altares de paja y cuerda escondidos entre los árboles.",
+   "image": "Mount_Kalaga_National_Park_02",
+   "screen": "Altares en Grassrivers"
+  },
+  {
+   "say": "Si te quedas cerca de uno, puede aparecer el Skunk Ape, el Bigfoot de Leonida.",
+   "image": "Mount_Kalaga_National_Park_03",
+   "screen": "Skunk Ape"
+  },
+  {
+   "say": "Si lo persigues, te puede dejar inconsciente con su gas o desaparecer convertido en árbol.",
+   "image": "Mount_Kalaga_National_Park_04",
+   "screen": "Cuidado con su gas"
+  },
+  {
+   "say": "Además, Jason tiene misiones con un tal Kirk sobre esta criatura que dan algunas recompensas.",
+   "image": "Mount_Kalaga_National_Park_05",
+   "screen": "Misiones con Kirk"
+  },
+  {
+   "say": "Sígueme para más secretos de GTA 6.",
+   "image": "Mount_Kalaga_National_Park_06"
+  }
+ ],
+ "hook_score": 70
+}

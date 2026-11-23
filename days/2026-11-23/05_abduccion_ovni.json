@@ -1,0 +1,47 @@
+{
+ "slug": "05_abduccion_ovni",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "TE ABDUCEN|A LAS|2 DE LA MAÑANA",
+ "image0": "Port_Gellhorn_01",
+ "title": "El secreto del ovni de GTA 6: sal a las 2 a. m. #GTA6 #Shorts",
+ "description": "En Port Gellhorn, a partir de las 2 de la madrugada, puede aparecer una luz que acaba en abducción. Con Jason sigue en Pelican Valley (código 2-3-4-1) y da el logro The Truth is Out There.\nFuente: ComicBook.com.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "ovni",
+  "Port Gellhorn"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte un logro secreto de GTA 6 si te vas a dormir antes de las dos de la mañana. Y casi nadie va a Port Gellhorn.",
+   "image": "Port_Gellhorn_01"
+  },
+  {
+   "say": "Sal a la calle en Port Gellhorn a partir de las dos de la madrugada y puede aparecer una luz brillante.",
+   "image": "Port_Gellhorn_02",
+   "screen": "Port Gellhorn, 2:00"
+  },
+  {
+   "say": "Si corres hacia ella, quizá veas cómo se llevan a una mujer, y esa misma noche te abducen a ti.",
+   "image": "Port_Gellhorn_03",
+   "screen": "Abducción"
+  },
+  {
+   "say": "Con Lucía viajas en el ovni. Con Jason vas a un centro abandonado en Pelican Valley.",
+   "image": "Port_Gellhorn_04",
+   "screen": "Pelican Valley"
+  },
+  {
+   "say": "La clave de la puerta es dos, tres, cuatro, uno, y al final ganas experiencia, mejoras y un logro.",
+   "image": "Port_Gellhorn_05",
+   "screen": "Código: 2-3-4-1"
+  },
+  {
+   "say": "Sígueme para más secretos de GTA 6.",
+   "image": "Port_Gellhorn_06"
+  }
+ ],
+ "hook_score": 69
+}

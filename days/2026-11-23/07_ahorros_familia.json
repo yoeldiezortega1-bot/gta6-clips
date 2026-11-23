@@ -1,0 +1,47 @@
+{
+ "slug": "07_ahorros_familia",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "ESTE DINERO|NO VUELVE|NUNCA",
+ "image0": "Jason_and_Lucia_17",
+ "title": "Cuidado con los ahorros familiares de GTA 6 #GTA6 #Shorts",
+ "description": "El dinero que metes en los ahorros familiares no se puede recuperar nunca, ni tras la historia. Solo sirve para subir el límite de la cuenta corriente.\nFuente: PowerPyx (consejos y trucos de GTA 6).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "dinero",
+  "ahorros"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder para siempre todo el dinero que ahorras en GTA 6. Y casi nadie lee esta letra pequeña.",
+   "image": "Jason_and_Lucia_17"
+  },
+  {
+   "say": "El dinero que metes en los ahorros familiares no se puede recuperar nunca, ni siquiera al acabar la historia.",
+   "image": "Jason_and_Lucia_18",
+   "screen": "Ahorros = sin vuelta atrás"
+  },
+  {
+   "say": "Así lo explica la guía de PowerPyx.",
+   "image": "Jason_and_Lucia_19",
+   "screen": "Fuente: PowerPyx"
+  },
+  {
+   "say": "Entonces, ¿para qué sirven? Para subir el límite de tu cuenta corriente.",
+   "image": "ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_02",
+   "screen": "Sube el límite de la cuenta"
+  },
+  {
+   "say": "Mete solo lo justo para el límite que necesites y guarda el resto para armas y coches.",
+   "image": "ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_03",
+   "screen": "Mete solo lo justo"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Jason_and_Lucia_20"
+  }
+ ],
+ "hook_score": 69
+}

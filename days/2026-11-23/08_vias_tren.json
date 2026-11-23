@@ -1,0 +1,47 @@
+{
+ "slug": "08_vias_tren",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "4 ESTRELLAS?|SIGUE|LAS VÍAS",
+ "image0": "Vice_City_13",
+ "title": "El truco de las vías del tren para huir en GTA 6 #GTA6 #Shorts",
+ "description": "Con nivel de búsqueda 4 o más, seguir las vías del tren al suroeste de Vice City o al norte de Ambrosia ayuda a escapar: en las vías por zonas salvajes casi no aparecen patrullas.\nFuente: PowerPyx (consejos y trucos de GTA 6).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "policía",
+  "Ambrosia"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder cualquier persecución en GTA 6 con cuatro estrellas. Y casi nadie conoce el truco de las vías del tren.",
+   "image": "Vice_City_13"
+  },
+  {
+   "say": "Con nivel de búsqueda cuatro o más, busca las vías del tren.",
+   "image": "Vice_City_14",
+   "screen": "Nivel 4+: vías del tren"
+  },
+  {
+   "say": "Las mejores están al suroeste de Vice City y al norte de Ambrosia, que tiene un túnel.",
+   "image": "Vice_City_15",
+   "screen": "SO de Vice City / N de Ambrosia"
+  },
+  {
+   "say": "En las vías que cruzan zonas salvajes casi no aparecen coches patrulla.",
+   "image": "Vice_City_16",
+   "screen": "Casi sin patrullas"
+  },
+  {
+   "say": "Cuando salgas de la zona de búsqueda, pinta el coche en un Pay 'n' Spray para que dejen de buscarlo.",
+   "image": "ULTIMATE_EDITION_VAPID_BUGGY_01",
+   "screen": "Pinta el coche"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "Vice_City_17"
+  }
+ ],
+ "hook_score": 67
+}
