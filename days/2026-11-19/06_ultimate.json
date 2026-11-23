@@ -1,0 +1,35 @@
+{
+ "hook_text": "¿Merece la pena la Ultimate?",
+ "beats": [
+  {
+   "say": "Antes de pagar veinte dólares más por la Ultimate, deberías saber por qué no lo tendrás todo el primer día.",
+   "image": "ULTIMATE_EDITION_01"
+  },
+  {
+   "say": "Rockstar dice que el contenido de la Ultimate se va desbloqueando a lo largo de la historia de Jason y Lucía.",
+   "image": "ULTIMATE_EDITION_02",
+   "screen": "Se desbloquea con la historia"
+  },
+  {
+   "say": "Incluye el Grotti Cheetah del noventa y cinco, un deportivo con estilo retro.",
+   "image": "ULTIMATE_EDITION_GROTTI_CHEETAH_01",
+   "screen": "'95 Grotti Cheetah"
+  },
+  {
+   "say": "Los revólveres Hawk y Little Morgan, la lancha Squalo y un buggy Vapid.",
+   "image": "ULTIMATE_EDITION_SQUALO_01",
+   "screen": "Revólveres · Squalo · Buggy"
+  },
+  {
+   "say": "Y negocios exclusivos, como el taller Rideout Customs o la peluquería de Sara.",
+   "image": "ULTIMATE_EDITION_RIDEOUT_CUSTOMS_01",
+   "screen": "Rideout Customs · Sara's Salon"
+  },
+  {
+   "say": "Si tienes la estándar, la mejora se puede comprar aparte. ¿Tú cuál tienes? Te leo.",
+   "image": "ULTIMATE_EDITION_VICE_CITY_STYLE_01"
+  }
+ ],
+ "slug": "06_ultimate",
+ "voice": "parler"
+}

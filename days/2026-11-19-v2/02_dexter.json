@@ -1,0 +1,46 @@
+{
+ "slug": "02_dexter",
+ "voice": "cb",
+ "thumb": "EL PISO DE|DEXTER|ESTÁ EN GTA 6",
+ "image0": "Vice_City_21",
+ "hook_text": "",
+ "title": "El piso de DEXTER está escondido en GTA 6 #GTA6 #Shorts",
+ "description": "El apartamento de Dexter Morgan aparece en Washington Island, en Vice City. También hay guiños a Liberty City y vuelve Bigfoot.\nFuente: GameSpot.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "easter egg",
+  "Dexter",
+  "secretos"
+ ],
+ "time": "10:00",
+ "beats": [
+  {
+   "say": "Puedes pasar con el coche por delante del piso de Dexter en GTA 6 y perderte el mejor secreto. Y casi nadie sabe dónde está.",
+   "image": "Vice_City_21"
+  },
+  {
+   "say": "El apartamento de Dexter Morgan, el de la serie, está en Washington Island, una zona de Vice City.",
+   "image": "Vice_City_22",
+   "screen": "Washington Island"
+  },
+  {
+   "say": "Eso sí: no puedes entrar. Solo verlo desde fuera.",
+   "image": "Vice_City_23",
+   "screen": "No se puede entrar"
+  },
+  {
+   "say": "Y no es el único guiño. En la mesa de Jason, al principio del capítulo uno, hay referencias a Liberty City.",
+   "image": "Jason_Duval_08",
+   "screen": "Guiño a Liberty City"
+  },
+  {
+   "say": "Y, atención, los jugadores dicen que Bigfoot ha vuelto.",
+   "image": "Mount_Kalaga_National_Park_04",
+   "screen": "Bigfoot ha vuelto"
+  },
+  {
+   "say": "¿Cuál vas a buscar primero? Te leo en comentarios.",
+   "image": "Vice_City_24"
+  }
+ ]
+}

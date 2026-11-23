@@ -1,0 +1,46 @@
+{
+ "slug": "01_huevo_pascua",
+ "voice": "cb",
+ "thumb": "EL HUEVO|SECRETO|DE VICE CITY",
+ "image0": "Vice_City_16",
+ "hook_text": "",
+ "title": "El Easter egg MÁS literal de GTA 6 #GTA6 #Shorts",
+ "description": "En lo alto de la torre más alta de Vice City hay un nido con huevos de Pascua pintados que puedes lanzar. Un jugador tardó unos 7 minutos en subir.\nFuente: GameSpot.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "easter egg",
+  "secretos",
+  "Vice City"
+ ],
+ "time": "09:00",
+ "beats": [
+  {
+   "say": "Puedes pasarte siete minutos escalando para encontrar este secreto de GTA 6. Y casi nadie sabe qué pasa cuando lo lanzas.",
+   "image": "Vice_City_16"
+  },
+  {
+   "say": "Sube a la torre más alta de Vice City. Arriba del todo hay un nido.",
+   "image": "Vice_City_17",
+   "screen": "La torre más alta"
+  },
+  {
+   "say": "Pero los huevos no son normales. Están pintados como huevos de Pascua. Un Easter egg literal.",
+   "image": "Vice_City_18",
+   "screen": "Un Easter egg literal"
+  },
+  {
+   "say": "Puedes coger uno y lanzarlo desde lo alto. Y cae justo encima de un tipo con pinta de abogado o de agente inmobiliario.",
+   "image": "Jason_Duval_07",
+   "screen": "Lánzalo desde arriba"
+  },
+  {
+   "say": "El jugador que lo encontró dice que tardó unos siete minutos en subir. Así que ten paciencia.",
+   "image": "Vice_City_19",
+   "screen": "Unos 7 minutos de subida"
+  },
+  {
+   "say": "Sígueme para más secretos de yi ti ei seis.",
+   "image": "Vice_City_20"
+  }
+ ]
+}

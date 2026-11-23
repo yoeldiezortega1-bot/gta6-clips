@@ -1,0 +1,46 @@
+{
+ "slug": "06_moses_coches",
+ "voice": "cb",
+ "thumb": "¿QUÉ COCHES|COMPRA|MOSES?",
+ "image0": "ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_01",
+ "hook_text": "",
+ "title": "Los coches que más dinero dan en GTA 6 #GTA6 #Shorts",
+ "description": "En el capítulo 2 conoces a Moses, que compra coches robados más antiguos y discretos, sin localizador. Pagan entre mil y unos miles de dólares.\nFuentes: PC Gamer, Insider Gaming, Screen Rant, PowerPyx.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "dinero",
+  "coches",
+  "Moses"
+ ],
+ "time": "15:00",
+ "beats": [
+  {
+   "say": "Puedes perder miles de dólares en GTA 6 robando los coches equivocados. Y casi nadie sabe cuáles quiere Moses.",
+   "image": "ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_01"
+  },
+  {
+   "say": "En el capítulo dos conoces a Moses, un mecánico que te compra coches robados.",
+   "image": "Jason_Duval_12",
+   "screen": "Capítulo 2: Moses"
+  },
+  {
+   "say": "Pero no quiere deportivos. Busca coches más antiguos y discretos.",
+   "image": "ULTIMATE_EDITION_VAPID_GANADO_RETRO_BUILD_01",
+   "screen": "Antiguos y discretos"
+  },
+  {
+   "say": "Y sin localizador. Si el coche lleva rastreador, no te lo compra.",
+   "image": "ULTIMATE_EDITION_STOCK_305_01",
+   "screen": "Sin localizador"
+  },
+  {
+   "say": "Cada coche te da entre mil y unos pocos miles de dólares. Ojo: los que están junto a su taller no valen.",
+   "image": "Real_Dimez_01",
+   "screen": "1.000 $ o más por coche"
+  },
+  {
+   "say": "Sígueme para más formas de ganar dinero en yi ti ei seis.",
+   "image": "Ambrosia_03"
+  }
+ ]
+}
