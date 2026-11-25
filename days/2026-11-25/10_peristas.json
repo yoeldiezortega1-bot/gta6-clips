@@ -1,0 +1,48 @@
+{
+ "slug": "10_peristas",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "VENDE AL|PERISTA|CORRECTO",
+ "image0": "ULTIMATE_EDITION_VAPID_BUGGY_02",
+ "title": "Vende tu botín al perista correcto en GTA 6 #GTA6 #Shorts",
+ "description": "Desde el capítulo 3 hay peristas especializados en droga, joyas o billetes marcados que pagan mejor; cada viaje lleva un solo tipo de botín.\nFuente: GamesRadar+ (23/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "dinero",
+  "botín",
+  "trucos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder dinero con cada robo en GTA 6. Y casi nadie vende al perista correcto.",
+   "image": "ULTIMATE_EDITION_VAPID_BUGGY_02"
+  },
+  {
+   "say": "A partir del capítulo tres desbloqueas peristas, y algunos se especializan en droga, joyas o billetes marcados.",
+   "image": "ULTIMATE_EDITION_VAPID_BUGGY_03",
+   "screen": "Peristas especialistas"
+  },
+  {
+   "say": "Esos especialistas pagan mejor por su tipo de botín.",
+   "image": "ULTIMATE_EDITION_VAPID_BUGGY_04",
+   "screen": "Pagan más"
+  },
+  {
+   "say": "Pero en cada viaje solo puedes llevar un tipo de botín.",
+   "image": "ULTIMATE_EDITION_STOCK_305_03",
+   "screen": "1 tipo por viaje"
+  },
+  {
+   "say": "Si no quieres conducir, Scooter te lo lleva desde el coche, o tu pareja lo vende, aunque no siempre al mejor precio.",
+   "image": "ULTIMATE_EDITION_STOCK_305_04",
+   "screen": "Scooter o tu pareja"
+  },
+  {
+   "say": "Sígueme para más trucos de dinero de GTA 6.",
+   "image": "ULTIMATE_EDITION_VAPID_GANADO_RETRO_BUILD_01"
+  }
+ ],
+ "hook_score": 67,
+ "time": "19:30"
+}

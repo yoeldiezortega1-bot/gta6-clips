@@ -1,0 +1,48 @@
+{
+ "slug": "02_waink_coches",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "ESCANEA|ANTES DE|ROBAR",
+ "image0": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01",
+ "title": "Escanea los coches con esta app antes de robarlos en GTA 6 #GTA6 #Shorts",
+ "description": "Con la app Waink ves cuánto vale un coche; al principio el Pay 'n' Spray acepta unos 3-4 coches al día y el límite se reinicia al dormir.\nFuente: Forbes (Paul Tassi, 19/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "coches",
+  "dinero",
+  "trucos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder dinero con cada coche que vendes en GTA 6. Y casi nadie lo escanea antes con esta app.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01"
+  },
+  {
+   "say": "Abre la app Waink en el móvil y escanea el coche para ver cuánto vale antes de robarlo.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_02",
+   "screen": "App Waink"
+  },
+  {
+   "say": "Al principio, cada coche te da desde unos cientos hasta unos dos mil dólares en el Pay 'n' Spray.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_03",
+   "screen": "Hasta 2.000 $"
+  },
+  {
+   "say": "Pero solo te aceptan unos tres o cuatro coches al día.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_04",
+   "screen": "3-4 coches al día"
+  },
+  {
+   "say": "El truco es dormir, porque el límite se reinicia y puedes volver a vender.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_05",
+   "screen": "Duerme = se reinicia"
+  },
+  {
+   "say": "Sígueme para más trucos de dinero de GTA 6.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_06"
+  }
+ ],
+ "hook_score": 69,
+ "time": "10:00"
+}

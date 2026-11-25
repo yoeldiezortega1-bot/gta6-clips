@@ -1,0 +1,48 @@
+{
+ "slug": "03_snap_gun",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "ABRE PUERTAS|SIN|ALARMA",
+ "image0": "ULTIMATE_EDITION_HAWK_AND_LITTLE_MORGAN_REVOLVERS_02",
+ "title": "La herramienta de GTA 6 que abre puertas sin alarma #GTA6 #Shorts",
+ "description": "La Snap Gun, que vende el perista de Vice City, abre puertas sin que salte la alarma.\nFuente: Forbes (Paul Tassi, 19/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "atracos",
+  "trucos",
+  "Vice City"
+ ],
+ "beats": [
+  {
+   "say": "Puedes hacer saltar la alarma en cada golpe de GTA 6 antes incluso de entrar. Y casi nadie usa esta herramienta.",
+   "image": "ULTIMATE_EDITION_HAWK_AND_LITTLE_MORGAN_REVOLVERS_02"
+  },
+  {
+   "say": "Se llama Snap Gun, y se la compras al perista de Vice City.",
+   "image": "Lucia_Caminos_07",
+   "screen": "Snap Gun"
+  },
+  {
+   "say": "Aunque parezca una pistola, no dispara balas: sirve para forzar cerraduras.",
+   "image": "Lucia_Caminos_08",
+   "screen": "Fuerza cerraduras"
+  },
+  {
+   "say": "Con ella abres puertas sin que salte la alarma.",
+   "image": "Lucia_Caminos_09",
+   "screen": "Sin alarma"
+  },
+  {
+   "say": "Así puedes colarte en los golpes de mitad de partida sin avisar a nadie.",
+   "image": "Lucia_Caminos_10",
+   "screen": "Golpes en silencio"
+  },
+  {
+   "say": "Sígueme para más trucos de GTA 6.",
+   "image": "ULTIMATE_EDITION_PTT_STORE_01"
+  }
+ ],
+ "hook_score": 73,
+ "time": "11:30"
+}

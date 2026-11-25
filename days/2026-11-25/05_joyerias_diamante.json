@@ -1,0 +1,48 @@
+{
+ "slug": "05_joyerias_diamante",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "ROBA SOLO|ESTAS|JOYERÍAS",
+ "image0": "Lucia_Caminos_11",
+ "title": "Roba solo estas joyerías en GTA 6 #GTA6 #Shorts",
+ "description": "Forbes recomienda las joyerías con icono de diamante en lugar de anillo, porque los diamantes valen más, y desactivar la alarma de la trastienda.\nFuente: Forbes (Paul Tassi, 19/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "joyerías",
+  "dinero",
+  "atracos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder miles de dólares en GTA 6 robando la joyería equivocada. Y casi nadie mira este icono.",
+   "image": "Lucia_Caminos_11"
+  },
+  {
+   "say": "En el mapa, unas joyerías tienen un icono de diamante y otras uno de anillo.",
+   "image": "Lucia_Caminos_12",
+   "screen": "Diamante o anillo"
+  },
+  {
+   "say": "Según Forbes, ve a las del diamante, porque los diamantes valen más.",
+   "image": "Lucia_Caminos_13",
+   "screen": "Elige el diamante"
+  },
+  {
+   "say": "Antes de llevarte nada, desactiva la alarma que hay en la trastienda.",
+   "image": "Lucia_Caminos_14",
+   "screen": "Alarma: trastienda"
+  },
+  {
+   "say": "Además, de una joyería se huye mucho más fácil que de una casa de empeños.",
+   "image": "ULTIMATE_EDITION_SARAS_SALON_03",
+   "screen": "Huida más fácil"
+  },
+  {
+   "say": "Sígueme para más trucos de dinero de GTA 6.",
+   "image": "ULTIMATE_EDITION_GOODTIME_GEAR_01"
+  }
+ ],
+ "hook_score": 67,
+ "time": "13:30"
+}

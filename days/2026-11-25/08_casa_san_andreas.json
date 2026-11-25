@@ -1,0 +1,48 @@
+{
+ "slug": "08_casa_san_andreas",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "ROCKSTAR|LO ESCONDIÓ|EN 2021",
+ "image0": "VINTAGE_VICE_CITY_PACK_VAPID_STANIER_01",
+ "title": "Rockstar escondió esta casa de GTA 6 en 2021 #GTA6 #Shorts",
+ "description": "La casa que apareció en GTA San Andreas Definitive Edition (2021) está en Belville, en GTA 6. Teoría de fans no confirmada por Rockstar.\nFuentes: VGC (18/11/2026), BuzzFeed (vía Dexerto).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "San Andreas",
+  "easter egg",
+  "secretos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte el primer vistazo a GTA 6 que Rockstar escondió en dos mil veintiuno. Y casi nadie sabe qué casa es.",
+   "image": "VINTAGE_VICE_CITY_PACK_VAPID_STANIER_01"
+  },
+  {
+   "say": "En la Definitive Edition de San Andreas apareció la imagen de una casa que no estaba en el juego original.",
+   "image": "VINTAGE_VICE_CITY_PACK_VAPID_STANIER_02",
+   "screen": "San Andreas, 2021"
+  },
+  {
+   "say": "Los fans la han encontrado en GTA 6, en la zona de Belville.",
+   "image": "VINTAGE_VICE_CITY_PACK_VAPID_STANIER_03",
+   "screen": "Belville"
+  },
+  {
+   "say": "Y según varios medios, en su garaje hay notas de un conspiranoico que cree que vive en una simulación.",
+   "image": "VINTAGE_VICE_CITY_PACK_VAPID_STANIER_04",
+   "screen": "Notas en el garaje"
+  },
+  {
+   "say": "Rockstar no lo ha confirmado, así que tómalo como una teoría de fans muy bien encajada.",
+   "image": "Vice_City_22",
+   "screen": "Sin confirmar"
+  },
+  {
+   "say": "Sígueme para más secretos de GTA 6.",
+   "image": "Vice_City_23"
+  }
+ ],
+ "hook_score": 60,
+ "time": "17:00"
+}

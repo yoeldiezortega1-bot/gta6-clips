@@ -1,0 +1,49 @@
+{
+ "slug": "09_yate_michael",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "¿EL YATE|DE MICHAEL|EN GTA 6?",
+ "image0": "ULTIMATE_EDITION_SQUALO_01",
+ "title": "¿El yate de Michael de GTA 5 está en GTA 6? #GTA6 #Shorts",
+ "description": "Un barco junto a la casa de Jason muestra en su GPS el mapa de Los Santos, y el tono Wind Chimes de Michael está en el móvil. Sin confirmar por Rockstar.\nFuente: BuzzFeed (vía Reddit y X).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "GTA 5",
+  "Michael",
+  "easter egg"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte uno de los mejores guiños a GTA 5 en GTA 6 cada día. Y casi nadie mira este yate.",
+   "image": "ULTIMATE_EDITION_SQUALO_01"
+  },
+  {
+   "say": "Junto a la casa de Jason hay un barco que recuerda mucho al yate de Michael De Santa.",
+   "image": "ULTIMATE_EDITION_SQUALO_02",
+   "screen": "¿El yate de Michael?"
+  },
+  {
+   "say": "Un usuario de Reddit se fijó en la pantalla del GPS del barco.",
+   "image": "ULTIMATE_EDITION_SQUALO_03",
+   "screen": "Mira el GPS"
+  },
+  {
+   "say": "Y no muestra el mapa de Leonida, sino el de Los Santos de GTA 5.",
+   "image": "ULTIMATE_EDITION_SQUALO_04",
+   "screen": "Mapa de Los Santos"
+  },
+  {
+   "say": "Además, en los ajustes del móvil está Wind Chimes, el tono que usaba Michael.",
+   "image": "Vice_City_24",
+   "screen": "Tono: Wind Chimes"
+  },
+  {
+   "say": "Rockstar no lo ha confirmado, así que cuéntame en comentarios si crees que es su yate.",
+   "image": "Vice_City_25",
+   "screen": "Sin confirmar"
+  }
+ ],
+ "hook_score": 68,
+ "time": "18:00"
+}

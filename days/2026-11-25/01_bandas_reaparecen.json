@@ -1,0 +1,49 @@
+{
+ "slug": "01_bandas_reaparecen",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "LAS BANDAS|REAPARECEN|30.000 $",
+ "image0": "Real_Dimez_02",
+ "title": "Las bandas de GTA 6 reaparecen: hasta 30.000 $ por visita #GTA6 #Shorts",
+ "description": "Las guaridas de bandas de GTA 6 se repueblan y cada nueva visita puede dar entre 10.000 y 30.000 $; la cámara grande siempre vuelve.\nFuente: Forbes (Paul Tassi, 19/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "dinero",
+  "bandas",
+  "trucos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder treinta mil dólares en GTA 6 si limpias cada guarida de banda solo una vez. Y casi nadie vuelve.",
+   "image": "Real_Dimez_02"
+  },
+  {
+   "say": "Según Forbes, las bandas de GTA 6 vuelven a aparecer después de que limpias su escondite.",
+   "image": "Real_Dimez_03",
+   "screen": "Las bandas reaparecen"
+  },
+  {
+   "say": "Y cada nueva visita puede darte entre diez mil y treinta mil dólares, aunque ya te hayas llevado el botín especial.",
+   "image": "Real_Dimez_04",
+   "screen": "10.000 - 30.000 $"
+  },
+  {
+   "say": "Lo mejor es que la cámara acorazada grande siempre vuelve a llenarse.",
+   "image": "Raul_Bautista_03",
+   "screen": "La cámara vuelve"
+  },
+  {
+   "say": "Entra en silencio con armas con silenciador y apréndete dónde están la droga, el dinero y la cámara.",
+   "image": "Raul_Bautista_04",
+   "screen": "Sigilo + silenciador"
+  },
+  {
+   "say": "Hazlo al final del juego para que no te rodeen, y sígueme para más trucos de GTA 6.",
+   "image": "Vice_City_18",
+   "screen": "Mejor al final del juego"
+  }
+ ],
+ "hook_score": 69,
+ "time": "09:00"
+}

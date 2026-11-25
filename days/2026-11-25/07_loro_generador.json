@@ -1,0 +1,48 @@
+{
+ "slug": "07_loro_generador",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "EL LORO|QUE ESCONDE|DINERO",
+ "image0": "ULTIMATE_EDITION_ONE_EYED_WILLIE_01",
+ "title": "El loro de GTA 6 que te dice dónde hay dinero #GTA6 #Shorts",
+ "description": "Detrás de la licorería Three Sheets, en Key Lento, un guacamayo rojo dice «generador» y te lleva a dinero escondido en una rejilla, como el loro Tony de San Andreas.\nFuentes: Polygon (vía BuzzFeed), GTA BOOM, DayOne.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "dinero",
+  "Key Lento"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder dinero gratis en GTA 6 por ignorar a un loro. Y casi nadie escucha lo que dice.",
+   "image": "ULTIMATE_EDITION_ONE_EYED_WILLIE_01"
+  },
+  {
+   "say": "Ve a la licorería Three Sheets, en Key Lento, y métete por el callejón de la derecha.",
+   "image": "ULTIMATE_EDITION_ONE_EYED_WILLIE_02",
+   "screen": "Three Sheets, Key Lento"
+  },
+  {
+   "say": "Detrás hay un solar con animales exóticos y unos matones armados.",
+   "image": "ULTIMATE_EDITION_ONE_EYED_WILLIE_03",
+   "screen": "Cuidado: matones"
+  },
+  {
+   "say": "Cuando acabes con ellos, habla con el guacamayo rojo, que dice generador, como el loro Tony de San Andreas.",
+   "image": "Vice_City_19",
+   "screen": "«Generador»"
+  },
+  {
+   "say": "Mira la rejilla de la pared junto al generador y encontrarás más de mil dólares escondidos.",
+   "image": "Vice_City_20",
+   "screen": "+1.000 $"
+  },
+  {
+   "say": "Sígueme para más secretos de GTA 6.",
+   "image": "Vice_City_21"
+  }
+ ],
+ "hook_score": 71,
+ "time": "16:00"
+}

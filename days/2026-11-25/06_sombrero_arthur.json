@@ -1,0 +1,48 @@
+{
+ "slug": "06_sombrero_arthur",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "EL SOMBRERO|DE ARTHUR|EN GTA 6",
+ "image0": "Port_Gellhorn_07",
+ "title": "El sombrero de Arthur Morgan está en GTA 6 #GTA6 #Shorts",
+ "description": "En una venta de garaje de Port Gellhorn (capítulo 2) hay un sombrero de vaquero casi idéntico al de Arthur Morgan. Es un parecido, el juego no lo nombra.\nFuentes: Gfinity Esports, BuzzFeed (vía PC Gamer).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "Red Dead Redemption",
+  "Arthur Morgan"
+ ],
+ "beats": [
+  {
+   "say": "Puedes pasar cada día por delante de un secreto de Red Dead en GTA 6. Y casi nadie se para en este mercadillo.",
+   "image": "Port_Gellhorn_07"
+  },
+  {
+   "say": "En el capítulo dos, en Port Gellhorn, hay una venta de garaje con un sombrero de vaquero junto al sofá.",
+   "image": "VINTAGE_VICE_CITY_PACK_01",
+   "screen": "Port Gellhorn"
+  },
+  {
+   "say": "Se vende como un sombrero de vaquero auténtico, y se parece muchísimo al de Arthur Morgan.",
+   "image": "VINTAGE_VICE_CITY_PACK_02",
+   "screen": "¿El de Arthur Morgan?"
+  },
+  {
+   "say": "El juego no lo nombra, pero la forma, el color y el nudo son casi iguales.",
+   "image": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_05",
+   "screen": "Guiño no confirmado"
+  },
+  {
+   "say": "Si lo compras pronto, solo podrás ponérselo a Lucía hasta que cambies a Jason.",
+   "image": "ULTIMATE_EDITION_VICE_CITY_STYLE_01",
+   "screen": "Primero, solo Lucía"
+  },
+  {
+   "say": "Sígueme para más secretos de GTA 6.",
+   "image": "ULTIMATE_EDITION_VICE_CITY_STYLE_02"
+  }
+ ],
+ "hook_score": 66,
+ "time": "15:00"
+}
