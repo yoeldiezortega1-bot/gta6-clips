@@ -1,0 +1,50 @@
+{
+ "slug": "06_waink_revistas",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "79 ESTILOS|SECRETOS|ESCANEA ESTO",
+ "image0": "Jason_and_Lucia_01",
+ "title": "Escanea estas revistas en GTA 6 y desbloquea estilos secretos #GTA6 #Shorts",
+ "description": "Con la app Waink puedes escanear revistas escondidas por Leonida y desbloquear peinados para Jason, peinados y maquillaje para Lucía y tatuajes. Según guías de la comunidad, la colección tiene 79 piezas.\nFuente: Notebookcheck (Karan Sharma, 24/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "Waink",
+  "peinados",
+  "secretos",
+  "trucos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder setenta y nueve looks secretos en GTA 6 si ignoras las revistas. Y casi nadie las escanea con esta app.",
+   "image": "Jason_and_Lucia_01"
+  },
+  {
+   "say": "Por Leonida hay revistas escondidas en habitaciones, oficinas y rincones tranquilos del mapa.",
+   "image": "Jason_and_Lucia_02",
+   "screen": "Revistas escondidas"
+  },
+  {
+   "say": "No se pueden coger ni leer: tienes que escanear la portada con la app Waink del móvil.",
+   "image": "Jason_and_Lucia_03",
+   "screen": "Escanea con Waink"
+  },
+  {
+   "say": "Así desbloqueas peinados para Jason, peinados y maquillaje para Lucía, y también tatuajes.",
+   "image": "Jason_and_Lucia_04",
+   "screen": "Peinados y tatuajes"
+  },
+  {
+   "say": "Según guías de la comunidad, la colección tiene setenta y nueve piezas, contando relojes de lujo que sí se recogen.",
+   "image": "Jason_and_Lucia_05",
+   "screen": "79 piezas"
+  },
+  {
+   "say": "Luego los estrenas en la peluquería o el tatuador. Sígueme para más secretos de GTA 6.",
+   "image": "Jason_and_Lucia_06",
+   "screen": "Peluquería y tatuador"
+  }
+ ],
+ "hook_score": 65,
+ "time": "15:00"
+}

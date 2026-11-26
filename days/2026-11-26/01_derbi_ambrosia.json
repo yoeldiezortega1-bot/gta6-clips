@@ -1,0 +1,50 @@
+{
+ "slug": "01_derbi_ambrosia",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "EL DERBI|DE AMBROSIA|6.300 $",
+ "image0": "Ambrosia_01",
+ "title": "El derbi de Ambrosia da hasta 6.300 $ por carrera en GTA 6 #GTA6 #Shorts",
+ "description": "El derbi de demolición del circuito de Ambrosia paga entre 3.800 y 6.300 $ por victoria y se puede repetir.\nFuente: PC Gamer (Christopher Livingston, 18/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "dinero",
+  "Ambrosia",
+  "derbi",
+  "trucos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder hasta seis mil dólares por carrera en GTA 6 si nunca vas a Ambrosia. Y casi nadie juega a este derbi.",
+   "image": "Ambrosia_01"
+  },
+  {
+   "say": "Según PC Gamer, el derbi de demolición de Ambrosia es de lo más rápido para ganar dinero.",
+   "image": "Ambrosia_02",
+   "screen": "Derbi de Ambrosia"
+  },
+  {
+   "say": "Cada victoria paga entre tres mil ochocientos y seis mil trescientos dólares, y puedes repetirlo las veces que quieras.",
+   "image": "Ambrosia_03",
+   "screen": "3.800 - 6.300 $"
+  },
+  {
+   "say": "No necesitas un coche bueno: puedes alquilar uno por unos pocos cientos de dólares.",
+   "image": "Ambrosia_04",
+   "screen": "Alquila el coche"
+  },
+  {
+   "say": "El truco es embestir a los rivales sin parar: así sueles ganar antes de las ocho vueltas.",
+   "image": "Ambrosia_05",
+   "screen": "Embiste sin parar"
+  },
+  {
+   "say": "Y el óvalo paga más que el circuito en forma de ocho. Sígueme para más trucos de GTA 6.",
+   "image": "Ambrosia_06",
+   "screen": "El óvalo paga más"
+  }
+ ],
+ "hook_score": 73,
+ "time": "09:00"
+}

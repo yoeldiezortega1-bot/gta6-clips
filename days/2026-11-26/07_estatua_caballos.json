@@ -1,0 +1,49 @@
+{
+ "slug": "07_estatua_caballos",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "LA ESTATUA|MÁS RARA|DE GTA 6",
+ "image0": "Jason_Duval_01",
+ "title": "La estatua más rara de GTA 6 hace vibrar tu mando #GTA6 #Shorts",
+ "description": "Jugadores en Reddit cuentan que al acercarse a una estatua de cuatro caballos con símbolos raros cerca de Manifest Canyon el mando vibra y se oyen pitidos. Uno de los caballos lleva un cono en la cabeza. Sin confirmar por Rockstar.\nFuente: GAMINGbible (Richard Breslin, 20/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "secretos",
+  "estatua"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte el secreto más raro de GTA 6 si nunca visitas esta estatua. Y casi nadie sabe por qué vibra el mando.",
+   "image": "Jason_Duval_01"
+  },
+  {
+   "say": "Cerca de Manifest Canyon hay una estatua con cuatro caballos llenos de símbolos extraños.",
+   "image": "Jason_Duval_02",
+   "screen": "Manifest Canyon"
+  },
+  {
+   "say": "Según jugadores en Reddit, al acercarte el mando empieza a vibrar y se oyen unos pitidos muy raros.",
+   "image": "Jason_Duval_03",
+   "screen": "El mando vibra"
+  },
+  {
+   "say": "Y uno de los caballos lleva un cono de tráfico en la cabeza.",
+   "image": "Jason_Duval_04",
+   "screen": "Un cono en la cabeza"
+  },
+  {
+   "say": "GAMINGbible cree que podría ser un guiño a una famosa estatua de Glasgow, en Escocia. Pero está sin confirmar.",
+   "image": "Jason_Duval_05",
+   "screen": "Sin confirmar"
+  },
+  {
+   "say": "Si sabes qué significan los símbolos, déjalo en comentarios y sígueme para más secretos de GTA 6.",
+   "image": "Jason_Duval_06",
+   "screen": "¿Qué significan?"
+  }
+ ],
+ "hook_score": 70,
+ "time": "16:00"
+}

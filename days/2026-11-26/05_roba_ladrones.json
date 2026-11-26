@@ -1,0 +1,49 @@
+{
+ "slug": "05_roba_ladrones",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "ROBA A|LOS LADRONES|15.000 $",
+ "image0": "Boobie_Ike_01",
+ "title": "Roba a los ladrones en GTA 6: hasta 15.000 $ #GTA6 #Shorts",
+ "description": "Los criminales que cometen delitos por Leonida llevan botines de entre 1.000 y 15.000 $; en los capítulos 2 y 3 valen más que muchos golpes.\nFuente: PC Gamer (Christopher Livingston, 18/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "dinero",
+  "atracos",
+  "trucos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder quince mil dólares en GTA 6 cada vez que ignoras una alarma. Y casi nadie le roba a los ladrones.",
+   "image": "Boobie_Ike_01"
+  },
+  {
+   "say": "Por Leonida hay criminales cometiendo delitos a la vista: atracos a bancos, joyerías, furgones blindados o tratos en el puerto.",
+   "image": "Boobie_Ike_02",
+   "screen": "Delitos a la vista"
+  },
+  {
+   "say": "Según PC Gamer, el botín que llevan vale entre mil y quince mil dólares.",
+   "image": "Boobie_Ike_03",
+   "screen": "1.000 - 15.000 $"
+  },
+  {
+   "say": "Y en los capítulos dos y tres vale más que la mayoría de sitios que puedes atracar tú.",
+   "image": "Boobie_Ike_04",
+   "screen": "Capítulos 2 y 3"
+  },
+  {
+   "say": "Escucha sirenas, alarmas o disparos, quítales las bolsas y vete rápido. Con Jason y Lucía cargas más.",
+   "image": "Cal_Hampton_01",
+   "screen": "Quítales las bolsas"
+  },
+  {
+   "say": "Luego véndelo todo a un perista. Sígueme para más trucos de GTA 6.",
+   "image": "Cal_Hampton_02",
+   "screen": "Véndelo al perista"
+  }
+ ],
+ "hook_score": 69,
+ "time": "13:30"
+}

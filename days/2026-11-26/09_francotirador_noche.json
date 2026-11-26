@@ -1,0 +1,49 @@
+{
+ "slug": "09_francotirador_noche",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "NO APUNTES|DE NOCHE|CON SNIPER",
+ "image0": "Jason_Duval_07",
+ "title": "No apuntes con un francotirador de noche en GTA 6 #GTA6 #Shorts",
+ "description": "Un jugador en Reddit cuenta que, al apuntar de noche con un rifle de francotirador a un peatón, este se volvió invencible y apareció de golpe detrás de él. No se sabe si es un secreto o un fallo: sin confirmar.\nFuente: GAMINGbible (Richard Breslin, 20/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "secretos",
+  "misterio",
+  "easter egg"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder los nervios en GTA 6 si apuntas con un francotirador de noche. Y casi nadie sabe por qué este tipo aparece detrás de ti.",
+   "image": "Jason_Duval_07"
+  },
+  {
+   "say": "Un jugador en Reddit cuenta que estaba de noche, por libre, apuntando a un peatón con un rifle de francotirador.",
+   "image": "Jason_Duval_08",
+   "screen": "De noche, con sniper"
+  },
+  {
+   "say": "Según su relato, el peatón se volvió invencible: no había forma de tumbarlo.",
+   "image": "Jason_Duval_09",
+   "screen": "Invencible"
+  },
+  {
+   "say": "Y de repente apareció justo detrás de él, como si se hubiera teletransportado.",
+   "image": "Jason_Duval_10",
+   "screen": "Detrás de ti"
+  },
+  {
+   "say": "Ojo, que GAMINGbible dice que no está claro si es un secreto a propósito o un simple fallo. Está sin confirmar.",
+   "image": "Jason_Duval_11",
+   "screen": "Sin confirmar"
+  },
+  {
+   "say": "¿Te atreves a probarlo? Cuéntame qué pasa y sígueme para más secretos de GTA 6.",
+   "image": "Jason_Duval_12",
+   "screen": "¿Te atreves?"
+  }
+ ],
+ "hook_score": 73,
+ "time": "18:00"
+}

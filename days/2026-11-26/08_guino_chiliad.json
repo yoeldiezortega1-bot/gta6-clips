@@ -1,0 +1,49 @@
+{
+ "slug": "08_guino_chiliad",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "EL GUIÑO|A GTA 5|QUE TE PERDISTE",
+ "image0": "Brian_Heder_01",
+ "title": "El guiño a Mount Chiliad escondido en GTA 6 #GTA6 #Shorts",
+ "description": "En una de las primeras misiones, con Donny y Brian, dos personajes sentados a la puerta de un bar hablan del misterio de Mount Chiliad de GTA 5.\nFuente: GAMINGbible (Richard Breslin, 20/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "GTA 5",
+  "Mount Chiliad",
+  "easter egg"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte un secreto de GTA 5 en las primeras misiones de GTA 6 si pasas rápido por este bar. Y casi nadie se para a escuchar.",
+   "image": "Brian_Heder_01"
+  },
+  {
+   "say": "Pasa en una misión temprana con Donny y Brian.",
+   "image": "Brian_Heder_02",
+   "screen": "Misión con Brian"
+  },
+  {
+   "say": "A la puerta de un bar hay dos personajes sentados charlando.",
+   "image": "Brian_Heder_03",
+   "screen": "Dos tipos en un bar"
+  },
+  {
+   "say": "Y están hablando del misterio de Mount Chiliad, la montaña de GTA 5 que tuvo a los fans buscando pistas durante años.",
+   "image": "Brian_Heder_04",
+   "screen": "Mount Chiliad"
+  },
+  {
+   "say": "Lo encontró un jugador en Reddit y lo recogió GAMINGbible. Si vas con prisa, te lo pierdes.",
+   "image": "DreQuan_Priest_01",
+   "screen": "Escucha bien"
+  },
+  {
+   "say": "¿Lo habías oído? Cuéntamelo y sígueme para más secretos de GTA 6.",
+   "image": "DreQuan_Priest_02",
+   "screen": "¿Lo oíste?"
+  }
+ ],
+ "hook_score": 69,
+ "time": "17:00"
+}

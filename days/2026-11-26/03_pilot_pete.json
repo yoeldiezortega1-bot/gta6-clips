@@ -1,0 +1,50 @@
+{
+ "slug": "03_pilot_pete",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "PILOT PETE|PAGA HASTA|20.000 $",
+ "image0": "Vice_City_01",
+ "title": "Pilot Pete paga hasta 20.000 $ por vuelo en GTA 6 #GTA6 #Shorts",
+ "description": "Pilot Pete te deja un avión para lanzar paquetes a compradores por todo Leonida con tiempo límite; cada trabajo da entre 10.000 y 20.000 $. Lo conoces en el capítulo 3 y trabajas con él en el 4.\nFuente: PC Gamer (Christopher Livingston, 18/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "dinero",
+  "Pilot Pete",
+  "avión",
+  "trucos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder veinte mil dólares por vuelo en GTA 6 si pasas de Pilot Pete. Y casi nadie acepta sus encargos.",
+   "image": "Vice_City_01"
+  },
+  {
+   "say": "A Pilot Pete lo conoces en el capítulo tres, pero sus trabajos se abren en el capítulo cuatro.",
+   "image": "Vice_City_02",
+   "screen": "Capítulo 3 y 4"
+  },
+  {
+   "say": "Te deja un avión y tienes que lanzar paquetes a compradores que esperan por todo Leonida.",
+   "image": "Vice_City_03",
+   "screen": "Lanza los paquetes"
+  },
+  {
+   "say": "Según PC Gamer, cada trabajo paga entre diez mil y veinte mil dólares.",
+   "image": "Vice_City_04",
+   "screen": "10.000 - 20.000 $"
+  },
+  {
+   "say": "Eso sí, las entregas tienen tiempo límite, así que no pierdas segundos en el aire.",
+   "image": "Vice_City_05",
+   "screen": "Tiempo límite"
+  },
+  {
+   "say": "Es de los trabajos que mejor pagan del juego. Sígueme para más trucos de GTA 6.",
+   "image": "Vice_City_26",
+   "screen": "Mejor pagado"
+  }
+ ],
+ "hook_score": 70,
+ "time": "11:30"
+}

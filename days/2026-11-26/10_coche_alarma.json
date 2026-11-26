@@ -1,0 +1,49 @@
+{
+ "slug": "10_coche_alarma",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "UN COCHE|CON LA ALARMA|NO MIRES",
+ "image0": "Grassrivers_07",
+ "title": "Si ves este coche abandonado en GTA 6, mira en el bosque #GTA6 #Shorts",
+ "description": "Un jugador en Reddit encontró en el capítulo 2 un coche abandonado con las puertas abiertas y la alarma sonando; en el bosque cercano había un cuerpo misterioso y lo que parecía una abducción alienígena.\nFuente: GAMINGbible (Richard Breslin, 20/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "secretos",
+  "misterio",
+  "easter egg"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte el secreto más inquietante de GTA 6 si ignoras la alarma de un coche. Y casi nadie mira en el bosque.",
+   "image": "Grassrivers_07"
+  },
+  {
+   "say": "Durante el capítulo dos te puedes encontrar un coche abandonado en la carretera.",
+   "image": "Grassrivers_08",
+   "screen": "Capítulo 2"
+  },
+  {
+   "say": "Tiene las puertas abiertas y la alarma sonando, pero no hay nadie dentro.",
+   "image": "Leonida_Keys_01",
+   "screen": "Puertas abiertas"
+  },
+  {
+   "say": "Un jugador en Reddit se metió en el bosque de al lado y encontró un cuerpo misterioso.",
+   "image": "Leonida_Keys_02",
+   "screen": "Un cuerpo en el bosque"
+  },
+  {
+   "say": "Y según recoge GAMINGbible, lo que parecía una abducción alienígena.",
+   "image": "Jason_and_Lucia_07",
+   "screen": "¿Abducción?"
+  },
+  {
+   "say": "Si te lo cruzas, no pases de largo. Sígueme para más secretos de GTA 6.",
+   "image": "Jason_and_Lucia_08",
+   "screen": "No pases de largo"
+  }
+ ],
+ "hook_score": 65,
+ "time": "19:30"
+}

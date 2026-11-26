@@ -1,0 +1,50 @@
+{
+ "slug": "04_moses_dormir",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "MOSES NO|TE COMPRA?|DUERME",
+ "image0": "ULTIMATE_EDITION_RIDEOUT_CUSTOMS_01",
+ "title": "El truco para que Moses te compre más coches en GTA 6 #GTA6 #Shorts",
+ "description": "Después de venderle un coche a Moses hay un tiempo de espera; dormir en tu piso franco hace que pase. Paga de media entre 1.000 y 5.000 $ por coche sin localizador.\nFuente: VGC (Jordan Middler, 19/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "dinero",
+  "Moses",
+  "coches",
+  "trucos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder días esperando a Moses en GTA 6. Y casi nadie sabe que dormir lo arregla.",
+   "image": "ULTIMATE_EDITION_RIDEOUT_CUSTOMS_01"
+  },
+  {
+   "say": "Moses es el mecánico del capítulo dos que te compra coches robados sin localizador.",
+   "image": "ULTIMATE_EDITION_RIDEOUT_CUSTOMS_02",
+   "screen": "Moses compra coches"
+  },
+  {
+   "say": "Según VGC, de media paga entre mil y cinco mil dólares por coche.",
+   "image": "ULTIMATE_EDITION_RIDEOUT_CUSTOMS_03",
+   "screen": "1.000 - 5.000 $"
+  },
+  {
+   "say": "El problema es que, después de cada venta, tienes que esperar antes de venderle otro.",
+   "image": "ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_01",
+   "screen": "Tiempo de espera"
+  },
+  {
+   "say": "El truco: vuelve a tu piso franco y duerme. Al despertar, la espera ya ha pasado.",
+   "image": "Vice_City_27",
+   "screen": "Duerme y listo"
+  },
+  {
+   "say": "Así puedes venderle un coche tras otro. Sígueme para más trucos de GTA 6.",
+   "image": "ULTIMATE_EDITION_VICE_CITY_STYLE_03",
+   "screen": "Un coche tras otro"
+  }
+ ],
+ "hook_score": 68,
+ "time": "12:30"
+}

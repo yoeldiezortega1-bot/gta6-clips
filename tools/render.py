@@ -36,6 +36,10 @@ PRON = [
  (r"\bDefinitive Edition\b", "defínitiv edíshon"), (r"\bSan Andreas\b", "san andréas"), (r"\bMichael\b", "máikel"),
  (r"\bDe Santa\b", "de santa"), (r"\bArthur Morgan\b", "árzur mórgan"), (r"\bRed Dead\b", "red ded"), (r"\bTony\b", "tóni"),
  (r"\bLos Santos\b", "los santos"),
+ (r"\bPilot Pete\b", "páilot pit"), (r"\bLummox County\b", "lómox cáunti"), (r"\bBret\b", "bret"),
+ (r"\bManifest Canyon\b", "mánifest kánion"), (r"\bMount Chiliad\b", "máunt chíliad"), (r"\bDonny\b", "dóni"),
+ (r"\bBrian\b", "bráian"), (r"\bGAMINGbible\b", "guéiming báibel"), (r"\bPC Gamer\b", "pe ce guéimer"),
+ (r"\bVGC\b", "uve ge ce"), (r"\bGlasgow\b", "glásgou"), (r"\blooks\b", "luks"),
 ]
 def pron(t):
     for a, b in PRON: t = re.sub(a, b, t)

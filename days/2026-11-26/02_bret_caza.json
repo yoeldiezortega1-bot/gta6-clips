@@ -1,0 +1,50 @@
+{
+ "slug": "02_bret_caza",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "BRET TE PAGA|2.500 $|POR UN JABALÍ",
+ "image0": "Grassrivers_01",
+ "title": "Aparca aquí y Bret te compra la caza en GTA 6 #GTA6 #Shorts",
+ "description": "Bret, el cazador de Lummox County, paga por los animales que cazas con Jason: un jabalí salvaje dio 2.500 $. Si aparcas delante de su local, compra lo que lleves en el maletero.\nFuente: PC Gamer (Christopher Livingston, 18/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "dinero",
+  "caza",
+  "Bret",
+  "trucos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder dos mil quinientos dólares en GTA 6 por cada jabalí que ignoras. Y casi nadie aparca junto a Bret.",
+   "image": "Grassrivers_01"
+  },
+  {
+   "say": "En el capítulo dos conoces a Bret, un cazador de Lummox County que paga por los animales que cazas.",
+   "image": "Grassrivers_02",
+   "screen": "Bret, el cazador"
+  },
+  {
+   "say": "Sus misiones solo las puede hacer Jason, y los animales legendarios son los que más pagan.",
+   "image": "Grassrivers_03",
+   "screen": "Solo con Jason"
+  },
+  {
+   "say": "En PC Gamer cazaron un jabalí salvaje y Bret les pagó dos mil quinientos dólares.",
+   "image": "Grassrivers_04",
+   "screen": "Jabalí = 2.500 $"
+  },
+  {
+   "say": "Y el truco: aparca delante de su local, entra, y Bret compra solo las piezas que llevas en el maletero.",
+   "image": "Grassrivers_05",
+   "screen": "Aparca y entra"
+  },
+  {
+   "say": "Así no cargas con nada. Sígueme para más trucos de GTA 6.",
+   "image": "Grassrivers_06",
+   "screen": "Venta automática"
+  }
+ ],
+ "hook_score": 70,
+ "time": "10:00"
+}
