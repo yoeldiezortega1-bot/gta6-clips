@@ -1,0 +1,50 @@
+{
+ "slug": "10_colores_mapa",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "AZUL OSCURO|= PUEDES|ENTRAR",
+ "image0": "Lucia_Caminos_01",
+ "title": "El truco de los colores del mapa de GTA 6 #GTA6 #Shorts",
+ "description": "En el mapa, los edificios en azul oscuro se pueden visitar por dentro y los de azul claro no. Gira el mapa para ver las puertas.\nFuente: The Big Lead (Kirk McKeand, 18/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "trucos",
+  "mapa",
+  "consejos",
+  "GTA 6 tips"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder horas en GTA 6 en puertas que nunca se abren. Y casi nadie conoce la regla del azul oscuro.",
+   "image": "Lucia_Caminos_01"
+  },
+  {
+   "say": "Lo cuenta The Big Lead, tras ciento cuarenta horas de juego.",
+   "image": "Lucia_Caminos_02",
+   "screen": "140 horas"
+  },
+  {
+   "say": "En el mapa, los edificios en azul oscuro son los que puedes visitar por dentro.",
+   "image": "Lucia_Caminos_03",
+   "screen": "Azul oscuro = entras"
+  },
+  {
+   "say": "Los de azul claro, en cambio, no se pueden visitar.",
+   "image": "Lucia_Caminos_04",
+   "screen": "Azul claro = no"
+  },
+  {
+   "say": "Gira el mapa para localizar las puertas y fíjate en el aviso de interacción al acercarte.",
+   "image": "Lucia_Caminos_05",
+   "screen": "Gira el mapa"
+  },
+  {
+   "say": "Así no pierdes tiempo dando vueltas. Sígueme para más trucos de GTA 6.",
+   "image": "Lucia_Caminos_06",
+   "screen": "Más trucos"
+  }
+ ],
+ "hook_score": 70,
+ "time": "19:30"
+}

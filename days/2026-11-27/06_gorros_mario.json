@@ -1,0 +1,50 @@
+{
+ "slug": "06_gorros_mario",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "LOS GORROS|DE MARIO|EN GTA 6",
+ "image0": "Mount_Kalaga_National_Park_01",
+ "title": "Los gorros de Mario y Luigi escondidos en GTA 6 #GTA6 #Shorts",
+ "description": "En unas ruinas del bosque al suroeste de Moreau (Lummox County) aparece un bloque flotante al estilo Mario que da dos gorros con la J y la L.\nFuente: Creative Bloq (Joe Foley, 25/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "Mario",
+  "Lummox County",
+  "secretos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte dos gorros de Mario en GTA 6 si pasas de estas ruinas. Y casi nadie golpea este bloque flotante.",
+   "image": "Mount_Kalaga_National_Park_01"
+  },
+  {
+   "say": "Según Creative Bloq, están en unas ruinas de ladrillo en el bosque, al suroeste de Moreau, en Lummox County.",
+   "image": "Mount_Kalaga_National_Park_02",
+   "screen": "Lummox County"
+  },
+  {
+   "say": "Busca la caja con una lona azul en el centro de las ruinas y usa el objeto que hay encima.",
+   "image": "Mount_Kalaga_National_Park_03",
+   "screen": "Lona azul"
+  },
+  {
+   "say": "Tu personaje alucina y aparece un bloque translúcido flotando, como el bloque de interrogación de Mario.",
+   "image": "Mount_Kalaga_National_Park_04",
+   "screen": "Bloque flotante"
+  },
+  {
+   "say": "Salta sobre él o dispárale y te llevas dos gorros al estilo de Mario y Luigi.",
+   "image": "Mount_Kalaga_National_Park_05",
+   "screen": "Dos gorros"
+  },
+  {
+   "say": "Llevan una jota de Jason y una ele de Lucía. Sígueme para más secretos de GTA 6.",
+   "image": "Mount_Kalaga_National_Park_06",
+   "screen": "J y L"
+  }
+ ],
+ "hook_score": 61,
+ "time": "15:00"
+}

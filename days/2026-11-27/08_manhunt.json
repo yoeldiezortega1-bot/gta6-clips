@@ -1,0 +1,50 @@
+{
+ "slug": "08_manhunt",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "NO NADES|POR HYDE|ISLAND",
+ "image0": "Raul_Bautista_01",
+ "title": "No nades cerca de esta isla en GTA 6: secreto de Manhunt #GTA6 #Shorts",
+ "description": "Si nadas alrededor de Hyde Island te secuestran y te dan caza a oscuras, un posible guiño a Manhunt (2003). Basado en el vídeo de un jugador recogido por Creative Bloq.\nFuente: Creative Bloq (Joe Foley, 25/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "Manhunt",
+  "Hyde Island",
+  "secretos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder tu libertad en GTA 6 si nadas alrededor de Hyde Island. Y casi nadie sobrevive a este secreto de Manhunt.",
+   "image": "Raul_Bautista_01"
+  },
+  {
+   "say": "Según Creative Bloq, que recoge el vídeo de un jugador, pasa si nadas cerca de Hyde Island.",
+   "image": "Raul_Bautista_02",
+   "screen": "Hyde Island"
+  },
+  {
+   "say": "Te secuestran, te dejan inconsciente y despiertas encerrado con un detonador en el cuello.",
+   "image": "Raul_Bautista_03",
+   "screen": "Detonador"
+  },
+  {
+   "say": "Cuando acaba la cuenta atrás, te dan caza a oscuras tipos con gafas de visión nocturna y perros.",
+   "image": "Raul_Bautista_04",
+   "screen": "Te dan caza"
+  },
+  {
+   "say": "Creative Bloq lo ve como un guiño a Manhunt, el juego de sigilo de Rockstar de dos mil tres.",
+   "image": "Leonida_Keys_02",
+   "screen": "Manhunt (2003)"
+  },
+  {
+   "say": "Se basa en el aviso de un jugador, así que tómalo con cautela. Sígueme para más secretos de GTA 6.",
+   "image": "ULTIMATE_EDITION_VICE_CITY_STYLE_04",
+   "screen": "Tómalo con cautela"
+  }
+ ],
+ "hook_score": 73,
+ "time": "17:00"
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "09_coche_fast_furious",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "EL COCHE|DE FAST &|FURIOUS",
+ "image0": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01",
+ "title": "El coche de Fast & Furious está escondido en GTA 6 #GTA6 #Shorts",
+ "description": "En el garaje de una villa de Vespucci Island hay un deportivo verde tuneado calcado al de Paul Walker en The Fast and the Furious, y se puede conducir.\nFuente: Red Bull Gaming (Phil Briel, 24/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "Fast and Furious",
+  "Vespucci Island",
+  "coches"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte el coche más famoso de dos mil uno en GTA 6 si pasas de este garaje de Vespucci. Y casi nadie lo conduce.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01"
+  },
+  {
+   "say": "Según Red Bull Gaming, está en el garaje de una villa de Vespucci Island.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_02",
+   "screen": "Vespucci Island"
+  },
+  {
+   "say": "Es un deportivo verde y tuneado, calcado al Mitsubishi Eclipse de Paul Walker en The Fast and the Furious.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_03",
+   "screen": "Guiño a Fast & Furious"
+  },
+  {
+   "say": "Y lo mejor es que puedes sacarlo y conducirlo.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_04",
+   "screen": "Puedes conducirlo"
+  },
+  {
+   "say": "No es el único guiño: en la puerta de una tienda hay una pegatina de Petty Forever, un homenaje a Tom Petty.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_05",
+   "screen": "Petty Forever"
+  },
+  {
+   "say": "¿Lo has encontrado ya? Sígueme para más secretos de GTA 6.",
+   "image": "ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_06",
+   "screen": "¿Lo tienes?"
+  }
+ ],
+ "hook_score": 73,
+ "time": "18:00"
+}

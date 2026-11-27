@@ -1,0 +1,50 @@
+{
+ "slug": "05_cangrejo_gigante",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "NO LEAS|ESTE|ORDENADOR",
+ "image0": "Leonida_Keys_03",
+ "title": "No leas este ordenador de GTA 6: el cangrejo gigante #GTA6 #Shorts",
+ "description": "En una estación de investigación de Gullet Marsh, devuelve la luz, lee el diario del ordenador... y aparta la vista.\nFuente: Red Bull Gaming (Phil Briel, 24/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "cangrejo gigante",
+  "Gullet Marsh",
+  "secretos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder la cabeza en GTA 6 si lees este ordenador de Gullet Marsh. Y casi nadie se espera al cangrejo gigante.",
+   "image": "Leonida_Keys_03"
+  },
+  {
+   "say": "Según Red Bull Gaming, hay una estación de investigación perdida en Gullet Marsh.",
+   "image": "Leonida_Keys_04",
+   "screen": "Gullet Marsh"
+  },
+  {
+   "say": "Primero devuelve la luz con la caja de fusibles que hay fuera.",
+   "image": "Leonida_Keys_05",
+   "screen": "Caja de fusibles"
+  },
+  {
+   "say": "Dentro, lee el diario de investigación del ordenador y sal de la pantalla.",
+   "image": "Leonida_Keys_06",
+   "screen": "Lee el diario"
+  },
+  {
+   "say": "En cuanto apartas la vista, te ataca un cangrejo mutante gigante, con su propia cinemática.",
+   "image": "Leonida_Keys_07",
+   "screen": "¡Cangrejo gigante!"
+  },
+  {
+   "say": "Es un guiño al famoso meme del cangrejo gigante de dos mil seis. Sígueme para más secretos de GTA 6.",
+   "image": "Leonida_Keys_01",
+   "screen": "Meme de 2006"
+  }
+ ],
+ "hook_score": 69,
+ "time": "13:30"
+}

@@ -39,6 +39,13 @@ PRON = [
  (r"\bPilot Pete\b", "páilot pit"), (r"\bLummox County\b", "lómox cáunti"), (r"\bBret\b", "bret"),
  (r"\bManifest Canyon\b", "mánifest kánion"), (r"\bMount Chiliad\b", "máunt chíliad"), (r"\bDonny\b", "dóni"),
  (r"\bBrian\b", "bráian"), (r"\bGAMINGbible\b", "guéiming báibel"), (r"\bPC Gamer\b", "pe ce guéimer"),
+ (r"\bThe Vault\b", "de volt"), (r"\bDJ Pretzel\b", "di yei prétsel"), (r"\bRed Bull Gaming\b", "red bul guéiming"),
+ (r"\bCreative Bloq\b", "criéitiv blok"), (r"\bThe Big Lead\b", "de big lid"), (r"\bGullet Marsh\b", "gálet marsh"),
+ (r"\bHyde Island\b", "jáid áiland"), (r"\bManhunt\b", "mánjant"), (r"\bTommy Vercetti\b", "tómi verchéti"),
+ (r"\bMalibu Club\b", "málibu klab"), (r"\bPaul Walker\b", "pol uóker"), (r"\bThe Fast and the Furious\b", "de fast an de fiúrius"),
+ (r"\bVespucci Island\b", "vespúchi áiland"), (r"\bVespucci\b", "vespúchi"), (r"\bMitsubishi Eclipse\b", "mitsubíshi iclíps"),
+ (r"\bPetty Forever\b", "péti foréver"), (r"\bTom Petty\b", "tom péti"), (r"\bMoreau\b", "moró"), (r"\bVice-Dale\b", "váis déil"),
+ (r"\bhouse, techno y electro\b", "jaus, tecno y electro"), (r"\bLuigi\b", "luiyi"),
  (r"\bVGC\b", "uve ge ce"), (r"\bGlasgow\b", "glásgou"), (r"\blooks\b", "luks"),
 ]
 def pron(t):

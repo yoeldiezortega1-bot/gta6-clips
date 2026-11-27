@@ -1,0 +1,50 @@
+{
+ "slug": "02_codigo_alien",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "CÓDIGO|2314|MEJORA OCULTA",
+ "image0": "Port_Gellhorn_01",
+ "title": "El código 2314 de GTA 6 esconde una mejora permanente #GTA6 #Shorts",
+ "description": "Spoiler: tras la abducción ovni, sigue durmiendo y llegarás a la misión secreta del alien. La mejora permanente la atribuyen los jugadores (sin confirmar por Rockstar).\nFuente: Red Bull Gaming (Phil Briel, 24/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "alien",
+  "ovni",
+  "secretos",
+  "código 2314"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte una mejora permanente de vida en GTA 6 si te despiertas demasiado pronto. Y casi nadie encuentra el código dos, tres, uno, cuatro.",
+   "image": "Port_Gellhorn_01"
+  },
+  {
+   "say": "Ojo, spoiler: después de la abducción ovni de Port Gellhorn, sigue durmiendo.",
+   "image": "Port_Gellhorn_02",
+   "screen": "Spoiler"
+  },
+  {
+   "say": "Según Red Bull Gaming, despiertas en una nave, en una sala blanca, y tienes que resolver varios puzles.",
+   "image": "Port_Gellhorn_03",
+   "screen": "La nave"
+  },
+  {
+   "say": "Luego, en un centro de investigación acordonado del sur de Leonida, introduces el código dos, tres, uno, cuatro.",
+   "image": "Port_Gellhorn_04",
+   "screen": "Código 2314"
+  },
+  {
+   "say": "Liberas a un alien vivo, lo sacas fuera y su nave viene a recogerlo.",
+   "image": "Port_Gellhorn_05",
+   "screen": "Libera al alien"
+  },
+  {
+   "say": "Según los jugadores, ganas una mejora permanente de vida, resistencia y foco, aunque Rockstar no lo ha confirmado. Sígueme para más secretos.",
+   "image": "Port_Gellhorn_06",
+   "screen": "Sin confirmar"
+  }
+ ],
+ "hook_score": 72,
+ "time": "10:00"
+}

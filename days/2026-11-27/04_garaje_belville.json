@@ -1,0 +1,50 @@
+{
+ "slug": "04_garaje_belville",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "EL GARAJE|MÁS RARO|DE GTA 6",
+ "image0": "Jason_and_Lucia_09",
+ "title": "El hombre de GTA 6 que cree vivir en un videojuego #GTA6 #Shorts",
+ "description": "Fuerza el garaje de una casa de Belville y conocerás a un conspiranoico que cree vivir en un videojuego. Responde a un guiño de GTA San Andreas de 2021.\nFuente: Red Bull Gaming (Phil Briel, 24/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "Belville",
+  "San Andreas",
+  "secretos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte al tipo más raro de GTA 6 si nunca entras en este garaje. Y casi nadie sabe que cree vivir en un videojuego.",
+   "image": "Jason_and_Lucia_09"
+  },
+  {
+   "say": "Según Red Bull Gaming, está en una casa de Belville, en el condado de Leonard.",
+   "image": "Jason_and_Lucia_10",
+   "screen": "Belville"
+  },
+  {
+   "say": "Fuerza la puerta del garaje y encontrarás a un conspiranoico.",
+   "image": "Jason_and_Lucia_11",
+   "screen": "Entra en el garaje"
+  },
+  {
+   "say": "Este hombre está convencido de que vive dentro de un videojuego.",
+   "image": "Jason_and_Lucia_12",
+   "screen": "¿Vive en un juego?"
+  },
+  {
+   "say": "Y responde a la foto de una casa con dos palmeras que salía en el San Andreas remasterizado de dos mil veintiuno.",
+   "image": "Jason_and_Lucia_13",
+   "screen": "Guiño de 2021"
+  },
+  {
+   "say": "Un guiño que ha tardado cinco años en tener respuesta. Sígueme para más secretos de GTA 6.",
+   "image": "Jason_and_Lucia_14",
+   "screen": "5 años después"
+  }
+ ],
+ "hook_score": 65,
+ "time": "12:30"
+}

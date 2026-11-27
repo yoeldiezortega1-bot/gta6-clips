@@ -1,0 +1,50 @@
+{
+ "slug": "07_portal_vice_city",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "UN PORTAL|A VICE CITY|2002",
+ "image0": "VINTAGE_VICE_CITY_PACK_01",
+ "title": "El portal secreto de GTA 6 que te lleva al Vice City de 2002 #GTA6 #Shorts",
+ "description": "Pistas en la antena de radio de Key Lento llevan a un portal al Malibu Club de 2002 y desbloquean la camisa y la moto de Tommy Vercetti. Lo descubrió un creador y lo recoge Creative Bloq.\nFuente: Creative Bloq (Joe Foley, 25/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "Vice City",
+  "Tommy Vercetti",
+  "secretos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte la camisa de Tommy Vercetti en GTA 6 si ignoras una antena de radio. Y casi nadie encuentra este portal a dos mil dos.",
+   "image": "VINTAGE_VICE_CITY_PACK_01"
+  },
+  {
+   "say": "Según Creative Bloq, es el easter egg más elaborado que se ha encontrado hasta ahora.",
+   "image": "VINTAGE_VICE_CITY_PACK_02",
+   "screen": "El más elaborado"
+  },
+  {
+   "say": "Al encender la antena de radio de Key Lento suena un efecto de sonido del Vice City original.",
+   "image": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01",
+   "screen": "Antena de Key Lento"
+  },
+  {
+   "say": "Y hay letras sueltas escondidas que forman un truco clásico de Vice City.",
+   "image": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_02",
+   "screen": "Letras escondidas"
+  },
+  {
+   "say": "Si lo resuelves, un portal manda a Jason al Malibu Club de la época de PlayStation dos.",
+   "image": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_03",
+   "screen": "Malibu Club"
+  },
+  {
+   "say": "Y al completarlo desbloqueas la camisa hawaiana y la moto de Tommy Vercetti. Sígueme para más secretos.",
+   "image": "VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04",
+   "screen": "Tommy Vercetti"
+  }
+ ],
+ "hook_score": 61,
+ "time": "16:00"
+}

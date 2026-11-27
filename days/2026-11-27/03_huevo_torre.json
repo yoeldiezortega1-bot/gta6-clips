@@ -1,0 +1,50 @@
+{
+ "slug": "03_huevo_torre",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "7 MINUTOS|POR UN|HUEVO",
+ "image0": "Vice_City_12",
+ "title": "Sube a la torre más alta de GTA 6 y lanza este huevo #GTA6 #Shorts",
+ "description": "En lo alto de la antena de radio más alta de Vice City hay un nido: lanza un huevo con la fuerza al máximo.\nFuente: Red Bull Gaming (Phil Briel, 24/11/2026), Creative Bloq (Joe Foley, 25/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "Vice City",
+  "secretos",
+  "torre"
+ ],
+ "beats": [
+  {
+   "say": "Puedes pasarte siete minutos subiendo a la torre más alta de GTA 6. Y casi nadie lanza este huevo.",
+   "image": "Vice_City_12"
+  },
+  {
+   "say": "Es la antena de radio más alta de Vice City, en Vice-Dale, según Red Bull Gaming y Creative Bloq.",
+   "image": "Vice_City_13",
+   "screen": "Vice-Dale"
+  },
+  {
+   "say": "Subir cuesta unos seis o siete minutos, pero arriba hay un nido de pájaro.",
+   "image": "Vice_City_14",
+   "screen": "6-7 minutos"
+  },
+  {
+   "say": "Coge un huevo y lánzalo con la barra de fuerza cargada al máximo.",
+   "image": "Vice_City_15",
+   "screen": "Carga al máximo"
+  },
+  {
+   "say": "Verás una escena corta con un agente inmobiliario en la calle: los fans creen que es un guiño al Vice City de dos mil dos.",
+   "image": "Vice_City_16",
+   "screen": "Guiño a 2002"
+  },
+  {
+   "say": "Y desde arriba empieza un salto base con puntos de control. Sígueme para más secretos de GTA 6.",
+   "image": "Vice_City_17",
+   "screen": "Salto base"
+  }
+ ],
+ "hook_score": 70,
+ "time": "11:30"
+}

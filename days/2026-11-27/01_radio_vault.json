@@ -1,0 +1,50 @@
+{
+ "slug": "01_radio_vault",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "EMISORA|SECRETA|EN THE VAULT",
+ "image0": "Vice_City_06",
+ "title": "La emisora SECRETA de GTA 6 está en esta discoteca #GTA6 #Shorts",
+ "description": "Escanea el póster rojo de la discoteca The Vault con la app Waink y desbloqueas una emisora secreta con DJ Pretzel.\nFuente: Red Bull Gaming (Phil Briel, 24/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "emisora secreta",
+  "The Vault",
+  "Waink",
+  "secretos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte una emisora de radio secreta en GTA 6 si pasas de la discoteca The Vault. Y casi nadie escanea este póster rojo.",
+   "image": "Vice_City_06"
+  },
+  {
+   "say": "Según Red Bull Gaming, The Vault está en el centro de Vice City.",
+   "image": "Vice_City_07",
+   "screen": "The Vault"
+  },
+  {
+   "say": "Entra por la puerta principal y busca un póster rojo justo en la entrada.",
+   "image": "Vice_City_08",
+   "screen": "Póster rojo"
+  },
+  {
+   "say": "Escanéalo con la app Waink: erre uno en PlayStation 5 o erre be en Xbox.",
+   "image": "Vice_City_09",
+   "screen": "R1 / RB"
+  },
+  {
+   "say": "Desbloqueas una emisora secreta de house, techno y electro con DJ Pretzel, en el coche y con cascos a pie.",
+   "image": "Vice_City_10",
+   "screen": "DJ Pretzel"
+  },
+  {
+   "say": "Y hay otra lista secreta que pide cuatro pósters. Sígueme para más secretos de GTA 6.",
+   "image": "Vice_City_11",
+   "screen": "4 pósters más"
+  }
+ ],
+ "hook_score": 68,
+ "time": "09:00"
+}
