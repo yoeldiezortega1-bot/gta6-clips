@@ -1,0 +1,49 @@
+{
+ "slug": "10_podcast_wade",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "WADE|DE GTA 5|VUELVE",
+ "image0": "ULTIMATE_EDITION_GROTTI_CHEETAH_01",
+ "title": "Wade de GTA 5 habla de Michael y Trevor en GTA 6 #GTA6 #Shorts",
+ "description": "En un podcast conspiranoico de GTA 6 aparece Wade, que habla de Franklin, Michael, Trevor y los bancos que robaron.\nFuente: The Loadout (Liam Hartley, 26/11/2026), GamesRadar+ (podcasts a pie, anunciados por Rockstar).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "GTA 5",
+  "Wade",
+  "easter egg"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte una historia secreta de GTA 5 en GTA 6 si pasas de los podcasts. Y casi nadie oye a Wade hablar de Michael.",
+   "image": "ULTIMATE_EDITION_GROTTI_CHEETAH_01"
+  },
+  {
+   "say": "Según The Loadout, hay un podcast conspiranoico sobre crímenes en el que sale Wade, el colega de Trevor.",
+   "image": "ULTIMATE_EDITION_GROTTI_CHEETAH_02",
+   "screen": "Wade"
+  },
+  {
+   "say": "En él se habla de Franklin, de Michael y de Trevor.",
+   "image": "ULTIMATE_EDITION_GROTTI_CHEETAH_03",
+   "screen": "Franklin, Michael, Trevor"
+  },
+  {
+   "say": "Y también de los bancos que robaron juntos en GTA 5.",
+   "image": "ULTIMATE_EDITION_GROTTI_CHEETAH_04",
+   "screen": "Los bancos"
+  },
+  {
+   "say": "Y hay más: Michael y Jimmy hicieron una peli, Righteous Slaughter Overkill, la parodia de Rockstar de Call of Duty.",
+   "image": "ULTIMATE_EDITION_ELECTRIC_FANG_01",
+   "screen": "Righteous Slaughter"
+  },
+  {
+   "say": "Y los podcasts se pueden escuchar incluso andando. Sígueme para más secretos de GTA 6.",
+   "image": "ULTIMATE_EDITION_ELECTRIC_FANG_02",
+   "screen": "Podcasts a pie"
+  }
+ ],
+ "hook_score": 71,
+ "time": "19:30"
+}

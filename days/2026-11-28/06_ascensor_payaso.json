@@ -1,0 +1,48 @@
+{
+ "slug": "06_ascensor_payaso",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "NO SUBAS|A ESTE|ASCENSOR",
+ "image0": "Vice_City_20",
+ "title": "No subas a este ascensor de GTA 6 de noche #GTA6 #Shorts",
+ "description": "Un secreto aún sin confirmar en el edificio Haymarket de West Ocean Beach, entre las 22:00 y las 2:00 del juego.\nFuente: The Loadout (Liam Hartley, 26/11/2026). Sin confirmar.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "secretos",
+  "Ocean Beach"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder la cabeza en GTA 6 si subes a este ascensor de noche. Y casi nadie sobrevive al payaso.",
+   "image": "Vice_City_20"
+  },
+  {
+   "say": "Según The Loadout, está en el edificio Haymarket, en West Ocean Beach, y es un secreto aún sin confirmar.",
+   "image": "Vice_City_21",
+   "screen": "Sin confirmar"
+  },
+  {
+   "say": "Solo pasa entre las diez de la noche y las dos de la madrugada, hora del juego.",
+   "image": "Vice_City_22",
+   "screen": "22:00 - 2:00"
+  },
+  {
+   "say": "Busca el ascensor de la izquierda con el cartel de averiado, un globo rojo y música de payaso.",
+   "image": "Vice_City_23",
+   "screen": "Globo rojo"
+  },
+  {
+   "say": "Al subir, los globos explotan, se apagan las luces y te ataca un payaso con un machete.",
+   "image": "Vice_City_24"
+  },
+  {
+   "say": "Si sales vivo, te llevas un ticket de feria que sirve de cupón para calzoncillos gratis. Sígueme para más secretos de GTA 6.",
+   "image": "Vice_City_25",
+   "screen": "Ticket de feria"
+  }
+ ],
+ "hook_score": 65,
+ "time": "15:00"
+}

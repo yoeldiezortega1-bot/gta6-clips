@@ -1,0 +1,48 @@
+{
+ "slug": "03_coche_volcado",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "¿COCHE|VOLCADO?|HAZ ESTO",
+ "image0": "ULTIMATE_EDITION_VAPID_BUGGY_01",
+ "title": "Si tu coche vuelca en GTA 6, haz esto #GTA6 #Shorts",
+ "description": "Si tu coche vuelca, bájate y empújalo para darle la vuelta; mantén cuadrado o X para más fuerza.\nFuente: The Tab (Ellissa Bain, 27/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "coches",
+  "trucos",
+  "conducción"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder tu coche en GTA 6 cada vez que vuelca. Y casi nadie sabe que puedes darle la vuelta tú mismo.",
+   "image": "ULTIMATE_EDITION_VAPID_BUGGY_01"
+  },
+  {
+   "say": "No hace falta buscar otro coche: según The Tab, bájate y empújalo para ponerlo sobre las ruedas.",
+   "image": "ULTIMATE_EDITION_VAPID_BUGGY_02",
+   "screen": "Empújalo"
+  },
+  {
+   "say": "Si no se mueve, mantén pulsado cuadrado en PlayStation o equis en Xbox para empujar con más fuerza.",
+   "image": "ULTIMATE_EDITION_VAPID_BUGGY_03",
+   "screen": "Mantén □ / X"
+  },
+  {
+   "say": "Y si te cansas de pagar reparaciones, en los ajustes puedes activar el daño reducido de vehículos.",
+   "image": "ULTIMATE_EDITION_VAPID_BUGGY_04",
+   "screen": "Daño reducido"
+  },
+  {
+   "say": "Otro truco: pulsa dos veces triángulo o i griega y te bajas dejando el motor encendido.",
+   "image": "ULTIMATE_EDITION_STOCK_305_01",
+   "screen": "Doble △ / Y"
+  },
+  {
+   "say": "Así sales corriendo sin perder ni un segundo. Sígueme para más trucos de GTA 6.",
+   "image": "ULTIMATE_EDITION_STOCK_305_02"
+  }
+ ],
+ "hook_score": 70,
+ "time": "11:30"
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "02_perros_guardianes",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "ADIÓS|PERROS|GUARDIANES",
+ "image0": "Cal_Hampton_03",
+ "title": "Los perros guardianes de GTA 6 se distraen con esto #GTA6 #Shorts",
+ "description": "Compra golosinas para mascotas en cualquier tienda para distraer a los perros guardianes, o dispara al suelo para asustarlos.\nFuente: The Tab (Ellissa Bain, 27/11/2026), PC Gamer (Christopher Livingston, 18/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "perros",
+  "trucos",
+  "golpes"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder cualquier golpe en GTA 6 por culpa de un solo perro guardián. Y casi nadie lleva golosinas para mascotas.",
+   "image": "Cal_Hampton_03"
+  },
+  {
+   "say": "Según The Tab, en cualquier tienda de conveniencia puedes comprar golosinas para mascotas.",
+   "image": "Cal_Hampton_04",
+   "screen": "Golosinas"
+  },
+  {
+   "say": "Sirven para distraer a los perros guardianes, así que cómpralas antes de entrar.",
+   "image": "DreQuan_Priest_03",
+   "screen": "Distrae al perro"
+  },
+  {
+   "say": "Y si un perro se te echa encima y no llevas nada, hay otra opción.",
+   "image": "DreQuan_Priest_04"
+  },
+  {
+   "say": "Dispara al suelo cerca de él: se asusta y se va, sin necesidad de matarlo.",
+   "image": "Real_Dimez_01",
+   "screen": "Dispara al suelo"
+  },
+  {
+   "say": "Y ojo, porque según PC Gamer, cómo tratas a los animales cuenta para tu perfil criminal. Sígueme para más trucos de GTA 6.",
+   "image": "Real_Dimez_02",
+   "screen": "Perfil criminal"
+  }
+ ],
+ "hook_score": 67,
+ "time": "10:00"
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "08_cancion_lucia",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "LA CANCIÓN|QUE LUCIA|ODIA",
+ "image0": "Lucia_Caminos_07",
+ "title": "La canción que Lucia odia en GTA 6 #GTA6 #Shorts",
+ "description": "Si suena Motivation de Kelly Rowland y Lil Wayne, Lucia te pide que la quites: le recuerda a un desamor.\nFuente: The Loadout (Liam Hartley, 26/11/2026), The Tab (Ellissa Bain, 27/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "Lucia",
+  "radio",
+  "secretos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes quedarte sin radio en GTA 6 si suena una canción cerca de Lucia. Y casi nadie sabe por qué la odia.",
+   "image": "Lucia_Caminos_07"
+  },
+  {
+   "say": "Según The Loadout, la canción es Motivation, de Kelly Rowland y Lil Wayne.",
+   "image": "Lucia_Caminos_08",
+   "screen": "Motivation"
+  },
+  {
+   "say": "Cuando suena en la radio, Lucia te pide que la quites.",
+   "image": "Lucia_Caminos_09",
+   "screen": "¡Quítala!"
+  },
+  {
+   "say": "¿El motivo? Le recuerda a un desamor de su pasado.",
+   "image": "Lucia_Caminos_10",
+   "screen": "Un desamor"
+  },
+  {
+   "say": "Es uno de esos detalles que hacen que Lucia parezca una persona de verdad.",
+   "image": "Lucia_Caminos_11"
+  },
+  {
+   "say": "Y si compras unos auriculares inalámbricos en una tienda de electrónica, oyes la radio también a pie. Sígueme para más secretos de GTA 6.",
+   "image": "Lucia_Caminos_12",
+   "screen": "Radio a pie"
+  }
+ ],
+ "hook_score": 74,
+ "time": "17:00"
+}

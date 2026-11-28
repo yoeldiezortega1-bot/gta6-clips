@@ -15,6 +15,12 @@ def sh(cmd):
     subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE)
 
 PRON = [
+ (r"\bWest Ocean Beach\b", "güest óushen bich"), (r"\bShacknews\b", "shác nius"), (r"\bGGRecon\b", "yi yi ríkon"),
+ (r"\bThe Loadout\b", "de lóudaut"), (r"\bThe Tab\b", "de tab"), (r"\bChuck's Tackle and Shot\b", "chaks tákel an shot"),
+ (r"\bHaymarket\b", "jéimarket"), (r"\bSplinter\b", "esplínter"), (r"\bMotivation\b", "motivéishon"),
+ (r"\bKelly Rowland\b", "kéli róuland"), (r"\bLil Wayne\b", "lil uéin"), (r"\bWade\b", "uéid"), (r"\bFranklin\b", "fránklin"),
+ (r"\bTrevor\b", "trévor"), (r"\bJimmy\b", "yími"), (r"\bRighteous Slaughter\b", "ráichus slóter"), (r"\bOverkill\b", "óverkil"),
+ (r"\bCall of Duty\b", "col of diúti"), (r"\bTallaloko\b", "talalóko"),
  (r"\bGTA\s*VI\b", "yi ti ei seis"), (r"\bGTA\s*6\b", "yi ti ei seis"), (r"\bGTA\s*5\b", "yi ti ei cinco"), (r"\bGTA\b", "yi ti ei"),
  (r"\bPlayStation\s*5\b", "pléisteishon cinco"), (r"\bPS5\b", "pe ese cinco"), (r"\bPlayStation\b", "pléisteishon"),
  (r"\bXbox\b", "éksbox"), (r"\bRockstar\b", "rókstar"), (r"\bVice City\b", "váis síti"), (r"\bJason\b", "yéison"),

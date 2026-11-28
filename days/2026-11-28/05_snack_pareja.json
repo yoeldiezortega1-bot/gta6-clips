@@ -1,0 +1,49 @@
+{
+ "slug": "05_snack_pareja",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "COMPARTE|LA COMIDA|CON TU PAREJA",
+ "image0": "Jason_and_Lucia_15",
+ "title": "Comparte comida con tu pareja en GTA 6 #GTA6 #Shorts",
+ "description": "Según jugadores, puedes pasarle un aperitivo a tu pareja con la interacción de la mano, a partir del capítulo 2.\nFuente: GGRecon (Jake Bannister, 27/11/2026), basado en experiencias de jugadores.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "Jason",
+  "Lucia",
+  "trucos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes desperdiciar comida en GTA 6 todos los días. Y casi nadie la comparte con su pareja.",
+   "image": "Jason_and_Lucia_15"
+  },
+  {
+   "say": "Según jugadores citados por GGRecon, puedes pasarle un aperitivo a Jason o a Lucia.",
+   "image": "Jason_and_Lucia_16",
+   "screen": "Comparte"
+  },
+  {
+   "say": "Apunta a tu pareja y usa la interacción de la mano.",
+   "image": "Jason_and_Lucia_17",
+   "screen": "Interacción de mano"
+  },
+  {
+   "say": "Pero necesitas dos objetos separados, porque uno solo no se puede partir.",
+   "image": "Jason_and_Lucia_18",
+   "screen": "2 objetos"
+  },
+  {
+   "say": "Y los jugadores dicen que esta opción solo aparece a partir del capítulo dos.",
+   "image": "Jason_and_Lucia_19",
+   "screen": "Capítulo 2"
+  },
+  {
+   "say": "Además, si cambias al personaje del copiloto, tu pareja conduce hasta el marcador del mapa. Sígueme para más trucos de GTA 6.",
+   "image": "Jason_and_Lucia_20",
+   "screen": "Copiloto"
+  }
+ ],
+ "hook_score": 67,
+ "time": "13:30"
+}

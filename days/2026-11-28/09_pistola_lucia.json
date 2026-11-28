@@ -1,0 +1,49 @@
+{
+ "slug": "09_pistola_lucia",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "LA PRIMERA|PISTOLA|DE LUCIA",
+ "image0": "Lucia_Caminos_13",
+ "title": "La primera pistola de Lucia es un coleccionable en GTA 6 #GTA6 #Shorts",
+ "description": "La pistola que Lucia tira en su primer atraco se puede recoger cerca de esa tienda y cuenta como coleccionable.\nFuente: The Loadout (Liam Hartley, 26/11/2026). La teoría de Red Dead está sin confirmar.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "Lucia",
+  "coleccionables",
+  "secretos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder la primera pistola de Lucia en GTA 6. Y casi nadie sabe que cuenta como coleccionable.",
+   "image": "Lucia_Caminos_13"
+  },
+  {
+   "say": "Es la pistola que Lucia tira en el prólogo, durante su primer atraco.",
+   "image": "Lucia_Caminos_14",
+   "screen": "El prólogo"
+  },
+  {
+   "say": "Según The Loadout, puedes encontrarla cerca de la tienda de ese atraco.",
+   "image": "ULTIMATE_EDITION_HAWK_AND_LITTLE_MORGAN_REVOLVERS_01",
+   "screen": "Cerca de la tienda"
+  },
+  {
+   "say": "Si la recoges, cuenta como un coleccionable.",
+   "image": "ULTIMATE_EDITION_HAWK_AND_LITTLE_MORGAN_REVOLVERS_02",
+   "screen": "Coleccionable"
+  },
+  {
+   "say": "Y en el puerto deportivo de Brian, al principio del juego, hay un libro con referencias a Red Dead Redemption.",
+   "image": "ULTIMATE_EDITION_WEAPON_VARIANTS_01",
+   "screen": "Red Dead"
+  },
+  {
+   "say": "Hay jugadores que creen que los dos universos se cruzan, pero está sin confirmar. Sígueme para más secretos de GTA 6.",
+   "image": "VINTAGE_VICE_CITY_WEAPON_PATTERN_01",
+   "screen": "Sin confirmar"
+  }
+ ],
+ "hook_score": 68,
+ "time": "18:00"
+}

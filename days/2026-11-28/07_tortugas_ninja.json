@@ -1,0 +1,48 @@
+{
+ "slug": "07_tortugas_ninja",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "TORTUGAS|NINJA|EN GTA 6",
+ "image0": "Vice_City_26",
+ "title": "Las Tortugas Ninja aparecen en este lago de GTA 6 #GTA6 #Shorts",
+ "description": "Según The Loadout, al anochecer aparecen cuatro tortugas con Splinter y una montaña de pizzas en el lago Tallaloko (Lummox County). Sin confirmar.\nFuente: The Loadout (Liam Hartley, 26/11/2026). Sin confirmar.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "easter egg",
+  "secretos",
+  "Lummox County"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perderte cuatro tortugas ninja en GTA 6 si te vas de este lago antes del anochecer. Y casi nadie espera.",
+   "image": "Vice_City_26"
+  },
+  {
+   "say": "Según The Loadout, el secreto está en el lago Tallaloko, en Lummox County.",
+   "image": "Vice_City_27",
+   "screen": "Lago Tallaloko"
+  },
+  {
+   "say": "Tienes que ir al anochecer, cuando empieza a caer el sol.",
+   "image": "Real_Dimez_03",
+   "screen": "Al anochecer"
+  },
+  {
+   "say": "Entonces aparecen cuatro tortugas junto al maestro Splinter.",
+   "image": "Real_Dimez_04"
+  },
+  {
+   "say": "Y justo a su lado, una montaña de pizzas.",
+   "image": "Port_Gellhorn_07",
+   "screen": "Pizzas"
+  },
+  {
+   "say": "Es un hallazgo de jugadores todavía sin confirmar, así que cuéntame si lo ves. Sígueme para más secretos de GTA 6.",
+   "image": "Jason_Duval_19",
+   "screen": "Sin confirmar"
+  }
+ ],
+ "hook_score": 78,
+ "time": "16:00"
+}

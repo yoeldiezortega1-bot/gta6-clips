@@ -1,0 +1,49 @@
+{
+ "slug": "01_pesca",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "NO PIERDAS|MÁS|PECES",
+ "image0": "Jason_Duval_13",
+ "title": "El truco para no perder peces en GTA 6 #GTA6 #Shorts",
+ "description": "Deja de recoger cuando el pez lucha y tira al lado contrario. La pesca está disponible desde el principio.\nFuente: Shacknews (Bill Lavoy, 18/11/2026), GGRecon (Jake Bannister, 27/11/2026).\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "pesca",
+  "trucos",
+  "Key Lento"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder todos los peces grandes en GTA 6 si no paras de recoger el sedal. Y casi nadie espera a este momento.",
+   "image": "Jason_Duval_13"
+  },
+  {
+   "say": "Según Shacknews, puedes pescar desde el principio: en cuanto Jason se mueve libre, ve al muelle.",
+   "image": "Jason_Duval_14",
+   "screen": "Desde el inicio"
+  },
+  {
+   "say": "Equipa la caña en la pestaña de equipo de la rueda de armas, y lanza con ele dos y erre dos.",
+   "image": "Jason_Duval_15",
+   "screen": "L2 + R2"
+  },
+  {
+   "say": "Cuando pique, deja que muerda el cebo y pulsa erre dos para engancharlo.",
+   "image": "Jason_Duval_16",
+   "screen": "Deja que muerda"
+  },
+  {
+   "say": "Mientras lucha, no recojas: tira con el estik izquierdo hacia el lado contrario al que nada, y cuando se canse, gira el derecho.",
+   "image": "Jason_Duval_17",
+   "screen": "Tira al lado contrario"
+  },
+  {
+   "say": "Y en Chuck's Tackle and Shot, junto al refugio de Key Lento, venden más cebos. Sígueme para más trucos de GTA 6.",
+   "image": "Jason_Duval_18",
+   "screen": "Más cebos"
+  }
+ ],
+ "hook_score": 72,
+ "time": "09:00"
+}

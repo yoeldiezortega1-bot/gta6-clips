@@ -1,0 +1,48 @@
+{
+ "slug": "04_ancla_barco",
+ "voice": "cb",
+ "hook_text": "",
+ "thumb": "ECHA|EL|ANCLA",
+ "image0": "ULTIMATE_EDITION_SQUALO_01",
+ "title": "Echa el ancla en GTA 6: el truco del barco #GTA6 #Shorts",
+ "description": "Según jugadores, los barcos tienen opción de ancla en su menú de interacción, y puedes empujar una moto de agua varada manteniendo L1 o LB.\nFuente: GGRecon (Jake Bannister, 27/11/2026), basado en experiencias de jugadores.\nImágenes: Rockstar Games. Canal no oficial.\n#GTA6 #Shorts",
+ "tags": [
+  "GTA 6",
+  "GTA VI",
+  "barcos",
+  "moto de agua",
+  "trucos"
+ ],
+ "beats": [
+  {
+   "say": "Puedes perder tu barco en GTA 6 cada vez que te tiras al agua. Y casi nadie echa el ancla.",
+   "image": "ULTIMATE_EDITION_SQUALO_01"
+  },
+  {
+   "say": "Según jugadores citados por GGRecon, los barcos tienen opción de ancla en su menú de interacción.",
+   "image": "ULTIMATE_EDITION_SQUALO_02",
+   "screen": "Menú del barco"
+  },
+  {
+   "say": "Un jugador dice que ese menú se abre manteniendo izquierda en la cruceta.",
+   "image": "ULTIMATE_EDITION_SQUALO_03",
+   "screen": "Mantén ← en la cruceta"
+  },
+  {
+   "say": "Y si tu moto de agua se queda varada en la playa, ponte al lado y mantén ele uno o ele be para empujarla al agua.",
+   "image": "ULTIMATE_EDITION_SQUALO_04",
+   "screen": "Mantén L1 / LB"
+  },
+  {
+   "say": "Ojo: tiene que estar cerca de la orilla, porque si está muy arriba en la arena no funciona.",
+   "image": "Vice_City_18",
+   "screen": "Cerca de la orilla"
+  },
+  {
+   "say": "Son trucos de jugadores, así que cuéntame si te funcionan. Sígueme para más trucos de GTA 6.",
+   "image": "Vice_City_19"
+  }
+ ],
+ "hook_score": 70,
+ "time": "12:30"
+}
